@@ -14,7 +14,6 @@
 
 - Monday: TBD, Alden Hall, 15 minute time slots
 
-
 To meet with the course instructor during office hours, please visit the
 [Google Calendar for Office Hours](https://calendar.app.google/MYV4AVsQG2fUM9Ja7)
 to reserve an appointment(s) as needed.
@@ -37,11 +36,11 @@ presentations.
 
 ## Course Learning Objectives
 
-1. Correctly use, implement, and describe data structures and algorithms in a Python programming language.
-2. Analyze, empirically evaluate, and describe algorithmic complexity of computer programs.
-3. Write Python source code and documentation conforming to industry-standard formats and styles.
-4. Develop and trouble-shoot with industry standard development environments, test suites, version control, and workflow tools.
-5. Communicate clearly about programming, Python, and software development issues and problem solve effectively.
+1. When solving a problem with a Python program, accurately describe data structures and algorithms and their inherent trade-offs.
+2. Use data structures and algorithms to correctly and efficiently solve a problem through the use of a Python program.
+3. Use empirical methods to characterize the performance of a Python program that uses data structures and algorithms.
+4. Use industry-standard practices, such as testing and debugging, and professional-grade integrated development environments (IDEs), command-line tools, and version control systems to implement Python programs.
+5. Implement Python programs and documentation that conforms to industry-standard formats and styles.
 
 ### Further Objectives
 
@@ -61,21 +60,22 @@ create scientifically literate citizens who can engage productively in problem s
 *Learning Outcome*: Students who successfully complete this requirement will demonstrate an
 understanding of the nature, approaches, and domain of scientific inquiry.
 
-## Required Materials
+## Materials
 
-### Required Textbook
+### Suggested Textbook
 
 [Introduction to Computation and Programming Using Python](https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-third-edition)
 by [John V. Guttag](https://people.csail.mit.edu/guttag/)
 
 <img src="https://mit-press-us.imgix.net/covers/9780262542364.jpg?auto=format&w=298&dpr=2&q=20" width="20%"><break>
 
-To order through the [virtual campus bookstore](https://bncvirtual.com/allegheny), click on the "Let's get started" button, and enter Fall 2023, Computer Science, CMPSC 101.
+To order through the [virtual campus bookstore](https://bncvirtual.com/allegheny), click on the "Let's get started" button, and enter Spring 2024, Computer Science, CMPSC 101.
 
 ### Required Software and Accounts
 
 - Visual Studio Code
 - Python 3
+- pipx
 - Poetry
 - Gatorgrade
 - Git
@@ -83,46 +83,44 @@ To order through the [virtual campus bookstore](https://bncvirtual.com/allegheny
 - Free Discord Account
 - Google Account
 
-
 ## Online Resources and Course Materials
 
-- [Proactive Programmers](www.proactiveprogrammers.com)
+- [Course Materials Repository](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials)
+- [Course GitHub Organization](https://github.com/allegheny-college-cmpsc-101-spring-2024)
 - [Python Docs](https://docs.python.org/3/)
-- [Course GitHub Organization](https://github.com/allegheny-college-cmpsc-101-fall-2023)
-- [Course Materials Repository](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials)
+- [Proactive Programmers](www.proactiveprogrammers.com)
 
 ## Schedule At-A-Glance
 
-- **Week One**: August 29 to September 1: [Software Operation](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#software-operation)
-- **Week Two**: September 4 to September 8: [Python Foundations](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#python-foundations)
-- **Week Three**: September 11 to September 15: [Numerical Computation](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#numerical-computation)
-- **Week Four**: September 18 to September 22: [Function Scope](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#function-scope)
-- **Week Five**: September 25: Proactive Review
-- **Executable Examination One**: September 27 during the class session
+- **Week One**: January 17 to January 19: [Software Operation](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#software-operation)
+- **Week Two**: January 22 to January 26: [Python Foundations](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#python-foundations)
+- **Week Three**: January 29 to February 02: [Numerical Computation](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#numerical-computation)
+- **Week Four**: February 5 to February 9: [Function Scope](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#function-scope)
+- **Week Five**: February 12 to February 16: Proactive Review
+- **Executable Examination One**: February 16 during the class session
     - Relevant Modules:
         - [Software Operation](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#software-operation)
         - [Python Foundations](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#python-foundations)
         - [Numerical Computation](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#numerical-computation)
         - [Function Scope](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#function-scope)
-- **Week Six**: October 2 to October 6: [Structured Types](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#structured-types)
-- **Monday October 9**: Fall Break
-- **Week Seven**: October 11 to October 13: [Program Components](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#program-components)
-- **Week Eight**: October 16 to October 20: [Software Testing](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#software-testing)
-- **Week Nine**: October 23 to October 27: [Object-Oriented Programming](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#object-oriented-programming)
-- **Week Ten**: October 30 to November 3: Proactive Review
-- **Executable Examination Two**: November 3 during the laboratory session
+- **Week Six**: February 19 to February 23: [Structured Types](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#structured-types)
+- **Week Seven**: February 26 to March 01: [Program Components](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#program-components)
+- **Spring Break March 04 to March 08**
+- **Week Eight**: March 11 to March 15: [Software Testing](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#software-testing)
+- **Week Nine**: March 18 to March 22: [Object-Oriented Programming](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#object-oriented-programming)
+- **Week Ten**: March 25 to March 29: Proactive Review
+- **Executable Examination Two**: March 29 during the laboratory session
     - Relevant Modules:
         - [Structured Types](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#structured-types)
         - [Program Components](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#program-components)
         - [Software Testing](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#software-testing)
         - [Object-Oriented Programming](../schedule-data-abstraction#object-oriented-programming)
-- **Week Eleven**: November 6 to November 10: [Algorithmic Complexity](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#algorithmic-complexity)
-- **Week Twelve**: November 13 to November 17: [Algorithmic Complexity](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#algorithmic-complexity)
-- **Week Thirteen**: November 20 to November 24: Thanksgiving Break
-- **Week Fourteen**: November 27 to December 1: [Data Structures](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#data-structures)
-- **Week Fifteen**: December 4 to December 8: [Optimization Problems](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#optimization-problems)
-- **Week Sixteen**: December 11: Proactive Review
-- **Final Examination**: *Examination Code*: G, *Date*: Monday, December 18th, 2023 at 09:00 AM. [Complete Final Exam Schedule](https://sites.allegheny.edu/registrar/fall-2023-final-exam-schedule/)
+- **Week Eleven**: April 1 to April 5: [Algorithmic Complexity](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#algorithmic-complexity)
+- **Week Twelve**: April 8 to April 12: [Algorithmic Complexity](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#algorithmic-complexity)
+- **Week Thirteen**: April 15 to April 19: [Data Structures](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#data-structures)
+- **Week Fourteen**: April 22 to April 26: [Optimization Problems](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#optimization-problems)
+- **Week Fifteen**: April 29: Proactive Review
+- **Final Examination**: *Examination Code*: A, *Date*: Thursday, May 2nd, 2024 at 09:00 AM. [Complete Final Exam Schedule](https://sites.allegheny.edu/registrar/spring-2024-final-exam-schedule/)
     - Comprehensively covers all course modules
 
 ## Course Policies
@@ -152,9 +150,7 @@ These grading categories have the following definitions:
     will be reduced by half a percentage for each additional time they are
     absent or late in an unexcused fashion. Students who need to miss class or
     attend class late for an excused reason should communicate their situation
-    to the course instructor as soon as possible. The content that a student
-    commits to their GitHub repositories during the weeks devoted to Proactive
-    Review are also a component of a student's grade for class participation.
+    to the course instructor as soon as possible.
 
 -   **Midterm Examinations**: The midterms are online cumulative assessments
     covering all prior material from the class, programming, and laboratory
@@ -191,8 +187,8 @@ These grading categories have the following definitions:
     &mdash; in a new way &mdash; their knowledge of the facts and techniques related to 
     data structures and rigorous Python programming.
 
--   **Engineering Efforts**: Graded on a percentage basis. These assignments invite
-    sudents to explore
+-   **Engineering Efforts**: Graded on a percentage basis. These assignments
+    invite students to explore
     different techniques for rigorously designing, implementing, evaluating, and
     documenting real-world Python programs. These assignments also encourage
     students to use tools like a terminal window and a modern
@@ -218,22 +214,19 @@ Using a report that the instructor shares with you through your assignment's
 GitHub repository, you will privately receive a grade for each
 assignment. Your grade will be a function of whether or not you completed
 correct work that fulfills the project's specification and submitted it by the
-deadline. For more details about the evaluation of course assignments, see this page 
-about
+deadline. For more details about the evaluation of course assignments, see this page about
 [proactive learning](https://proactiveprogrammers.com/proactive-learning/introduction-proactive-learning/).
 
 ### Redoing Assignments
 
-You can choose to redo any 3 assignments from the course before the final exam
-and the instructor will completely swap out the old grade with the new one. Any
-type of assignment is allowed to be redone. For example you can choose to swap
-out all Engineering Efforts, all Programming Projects, or all Source Code Surveys,
-or any combination of them. For Engineering Efforts, the instructor will scrutinize
-closely for correct coding, writing, and formatting. The grading of Programming Projects
-and Source Code Surveys will continue to be :white_check_mark:  or :x:.
+The deadlines for assignments are hard deadlines.
 
-You may take advantage of this any time during the course before the final exam. You will
-need to create an issue in the GitHub repos you choose to redo, tag the instructor, and say
+However, In each unit (3 total) you can choose to redo one assignment before the unit exam
+and the instructor will completely swap out the old grade with the new one. Any
+type of assignment is allowed to be redone, but grading will be carried out
+according to the assignment type as stated in the Grading section above.
+
+To redo an assignment, create an issue in the GitHub repo, tag the instructor, and say
 that you want to resubmit the assignment. The instructor will re-open the classroom manager
 so you can push updates. When you are satisfied with your submission, please tag the instructor
 again so they can look at the changes.
@@ -261,18 +254,13 @@ means such as the Proactive Programmers web site or a GitHub repository.
 
 ### Using GitHub and Discord
 
-This course will primarily use GitHub and Discord for all course communication,
-as summarized in the list of [community
-connections](https://proactiveprogrammers.com/proactive-community/community-connections/). We will use GitHub
-for the sharing of both source code and course projects and for reporting
-issues in those materials. We will use two distinct Discord servers for all
-course discussions. The [Proactive Programmers Discord
-Server](https://discord.gg/kjah8MFYbR) provides a way for members of the
-proactive community to use text and video to chat with each other and will be
-the main forum for discussing technical content in data abstraction. The
+This course will primarily use GitHub and Discord for all course communication.
+We will use GitHub for managing and viewing source code, and for reporting
+issues in those materials. The
 [Allegheny College Computer and Information Science Discord
-Server](https://discord.gg/CS2h9kXzX6) will be the main forum for Department
-of Computer Science announcements.
+Server](https://discord.gg/CS2h9kXzX6) will be the main forum for announcements
+and technical discussions about Data Structures and departmental activities
+including TL office hours.
 
 ### Using Email
 
@@ -330,8 +318,8 @@ The aforementioned forms of communication are unacceptable because they make it
 difficult for both the course instructor and a learner to assess individual
 knowledge. Moreover, these unacceptable forms of collaboration can impede your
 learning or someone else's learning since an individual is less likely to
-understand source code or technical writing that they do not create by
-themself. Any student who participates in these unacceptable forms of
+understand source code or technical writing that they do not create
+themselves. Any student who participates in these unacceptable forms of
 collaboration, whether they are the one sharing, showing, looking, copying, or
 typing, are in violation of Allegheny College's Honor Code.
 
