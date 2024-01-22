@@ -12,7 +12,7 @@
 
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
-|M Jan 22| [Guttag Chapters 1 + 2](https://mitpress.ublish.com/ebook/itcapup3-preview/12609/xv) ||[python foundations 1](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/Notes/20240118-setup-steps.pdf) <br> [blank colab]()|
+|M Jan 22| [Guttag Chapters 1 + 2](https://mitpress.ublish.com/ebook/itcapup3-preview/12609/xv) ||[python foundations 1](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/Notes/20240122-python-foundations.pdf) <br> [blank colab]()|
 |W Jan 24||||
 |Th Jan 25||||
 |F Jan 26||||
