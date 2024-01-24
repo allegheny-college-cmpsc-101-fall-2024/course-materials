@@ -1,18 +1,27 @@
 # Unit 1
 
-## Week 1 - SOS
+## Week 1 - Software Operations
 
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
-|W Jan 17||| [Guttag Chapters 1 + 2](https://mitpress.ublish.com/ebook/itcapup3-preview/12609/xv) |
-|Th Jan 18||[setup links pdf](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240118-setup-steps.pdf) <br> [setup links live](https://docs.google.com/presentation/d/1XSsBh5c8YV8-y0taWbQmtCO5EbI8IcI201z5gIGWAvo/edit?usp=sharing)||
-|F Jan 19||[gradebook](https://classroom.github.com/a/WiBuT_qZ) <br> [demo assignment](https://classroom.github.com/a/JUjsdYl5) <br> [command line interface](https://www.coursera.org/articles/command-line-interface)||
+|W Jan 17||| [Reading: Guttag Chapters 1 + 2](https://mitpress.ublish.com/ebook/itcapup3-preview/12609/xv) |
+|Th Jan 18||[Slides: Setup Links](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240118-setup-steps.pdf)||
+|F Jan 19||[Repo: gradebook](https://classroom.github.com/a/WiBuT_qZ) <br> [Repo: demo assignment](https://classroom.github.com/a/JUjsdYl5)||
 
 ## Week 2 - Python Foundations
 
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
-|M Jan 22| [Guttag Chapters 1 + 2](https://mitpress.ublish.com/ebook/itcapup3-preview/12609/xv) ||[python foundations 1](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240122-python-foundations.pdf)|
-|W Jan 24|||[python foundations 1](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240122-python-foundations.pdf) <br> [Python Foundations Colab](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240124_python_foundations.ipynb)|
-|Th Jan 25||||
-|F Jan 26||||
+|M Jan 22| [Reading: Guttag Chapters 1 + 2](https://mitpress.ublish.com/ebook/itcapup3-preview/12609/xv) |[Slides: Python Foundations](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240122-python-foundations.pdf)||
+|W Jan 24||[Slides: Python Foundations](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240122-python-foundations.pdf) <br> [Colab: Python Foundations](https://colab.research.google.com/github/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240124_python_foundations.ipynb)||
+|Th Jan 25|||[Reading: command line interface](https://www.coursera.org/articles/command-line-interface) <br> [Reading: Guttag Chapter 3](https://books.google.com/books?id=f57uDwAAQBAJ&pg=PA45&source=gbs_toc_r&cad=1#v=onepage&q&f=false) <br> [Reading: Guttag Chapter 3 extra pages](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/) <br> Repo: |
+|F Jan 26||Slides: Loop Review||
+
+## Week 3 - Numerical Computation
+
+| Date  | Due              | Links to in-class materials | Links to new assignments |
+|-------|------------------|-----------------------------|----------------------|
+|M Jan 29|[Reading: command line interface](https://www.coursera.org/articles/command-line-interface) <br> [Reading: Guttag Chapter 3](https://books.google.com/books?id=f57uDwAAQBAJ&pg=PA45&source=gbs_toc_r&cad=1#v=onepage&q&f=false) <br> [Reading: Guttag Chapter 3 extra pages](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/)|||
+|W Jan 31||||
+|Th Feb 01|||[Reading: Guttag Chapter 4](https://books.google.com/books?id=KabKDAAAQBAJ&pg=PA39&source=gbs_toc_r&cad=2#v=onepage&q&f=false) <br>|
+|F Feb 02||||
