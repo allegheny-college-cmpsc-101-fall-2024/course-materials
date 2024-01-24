@@ -12,11 +12,14 @@
 
 ### Instructor Office Hours
 
-- Monday: TBD, Alden Hall, 15 minute time slots
+- Monday: Alden 106, 12-1pm
+- Tuesday: Alden 106, 2-4pm
+- Wednesday: Alden 106, 10-10:30am, 12-1pm, 2-3:30pm
 
 To meet with the course instructor during office hours, please visit the
 [Google Calendar for Office Hours](https://calendar.app.google/MYV4AVsQG2fUM9Ja7)
-to reserve an appointment(s) as needed.
+to reserve an appointment(s) as needed. If there are **no suitable
+times**, contact the instructor.
 
 ## Course Description
 
@@ -85,40 +88,42 @@ To order through the [virtual campus bookstore](https://bncvirtual.com/allegheny
 
 ## Online Resources and Course Materials
 
-- [Course Materials Repository](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials)
+- [Syllabus](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials)
+- [Schedule](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/Schedule.md)
 - [Course GitHub Organization](https://github.com/allegheny-college-cmpsc-101-spring-2024)
+- [Guttag Textbook Previews](https://books.google.com/books?id=f57uDwAAQBAJ&source=gbs_book_other_versions)
 - [Python Docs](https://docs.python.org/3/)
-- [Proactive Programmers](www.proactiveprogrammers.com)
+- [Proactive Programmers](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/)
 
 ## Schedule At-A-Glance
 
-- **Week One**: January 17 to January 19: [Software Operation](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#software-operation)
-- **Week Two**: January 22 to January 26: [Python Foundations](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#python-foundations)
-- **Week Three**: January 29 to February 02: [Numerical Computation](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#numerical-computation)
-- **Week Four**: February 5 to February 9: [Function Scope](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#function-scope)
+- **Week One**: January 17 to January 19: [Software Operations](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/Schedule.md#week-1---software-operations)
+- **Week Two**: January 22 to January 26: [Python Foundations](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/Schedule.md#week-2---python-foundations)
+- **Week Three**: January 29 to February 02: [Numerical Computation](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/Schedule.md#week-3---numerical-computation)
+- **Week Four**: February 5 to February 9: [Function Scope](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/Schedule.md#week-4---function-scope)
 - **Week Five**: February 12 to February 16: Proactive Review
 - **Executable Examination One**: February 16 during the class session
     - Relevant Modules:
-        - [Software Operation](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#software-operation)
-        - [Python Foundations](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#python-foundations)
-        - [Numerical Computation](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#numerical-computation)
-        - [Function Scope](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#function-scope)
-- **Week Six**: February 19 to February 23: [Structured Types](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#structured-types)
-- **Week Seven**: February 26 to March 01: [Program Components](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#program-components)
+        - Software Operation
+        - Python Foundations
+        - Numerical Computation
+        - Function Scope
+- **Week Six**: February 19 to February 23: Structured Types
+- **Week Seven**: February 26 to March 01: Program Components
 - **Spring Break March 04 to March 08**
-- **Week Eight**: March 11 to March 15: [Software Testing](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#software-testing)
-- **Week Nine**: March 18 to March 22: [Object-Oriented Programming](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#object-oriented-programming)
+- **Week Eight**: March 11 to March 15: Software Testing
+- **Week Nine**: March 18 to March 22: Object-Oriented Programming
 - **Week Ten**: March 25 to March 29: Proactive Review
 - **Executable Examination Two**: March 29 during the laboratory session
     - Relevant Modules:
-        - [Structured Types](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#structured-types)
-        - [Program Components](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#program-components)
-        - [Software Testing](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#software-testing)
-        - [Object-Oriented Programming](../schedule-data-abstraction#object-oriented-programming)
-- **Week Eleven**: April 1 to April 5: [Algorithmic Complexity](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#algorithmic-complexity)
-- **Week Twelve**: April 8 to April 12: [Algorithmic Complexity](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#algorithmic-complexity)
-- **Week Thirteen**: April 15 to April 19: [Data Structures](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#data-structures)
-- **Week Fourteen**: April 22 to April 26: [Optimization Problems](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#optimization-problems)
+        - Structured Types
+        - Program Components
+        - Software Testing
+        - Object-Oriented Programming
+- **Week Eleven**: April 1 to April 5: Algorithmic Complexity
+- **Week Twelve**: April 8 to April 12: Algorithmic Complexity
+- **Week Thirteen**: April 15 to April 19: Data Structures
+- **Week Fourteen**: April 22 to April 26: Optimization Problems
 - **Week Fifteen**: April 29: Proactive Review
 - **Final Examination**: *Examination Code*: A, *Date*: Thursday, May 2nd, 2024 at 09:00 AM. [Complete Final Exam Schedule](https://sites.allegheny.edu/registrar/spring-2024-final-exam-schedule/)
     - Comprehensively covers all course modules
@@ -137,8 +142,7 @@ during the academic semester.
 | Course Participation   |  5%        |
 | Midterm Examinations   |  10%       |
 | Final Examination      |  15%       |
-| Source Code Surveys    |  15%       |
-| Programming Projects   |  15%       |
+| Programming Projects   |  30%       |
 | Engineering Efforts    |  40%       |
 
 These grading categories have the following definitions:
@@ -170,25 +174,20 @@ These grading categories have the following definitions:
     examination that a student will complete through the use of GitHub, VS Code,
     and the programming tools installed on their laptops.
 
--   **Source Code Surveys**: Graded on a checkmark basis and building on
-    material in the textbook and the content covered during that week's
-    in-person classroom sessions, source code surveys have the following goals:
-    (i) help a learner to demonstrate that they can remember learned material
+-   **Programming Projects**: Graded on a check mark basis.
+    Programming projects (i) help a learner to demonstrate that they can remember
+    learned material
     by recalling facts, basic concepts, and answers to questions presented in
-    the textbook and in course materials and (ii) allow a learner to
+    the textbook and in course materials; (ii) allow a learner to
     demonstrate an understanding of facts and ideas by translating,
     interpreting, and stating the main technical ideas presented through the
-    textbook and course materials.
-
--   **Programming Projects**: Graded on a checkmark basis and building on
-    material available in the textbook and the content covered during that
-    week's in-person classroom session, the programming projects further equip a
+    textbook and course materials; (iii) further equip a
     learner to solve new problems in the field of computer science by applying
-    &mdash; in a new way &mdash; their knowledge of the facts and techniques related to 
+    &mdash; in a new way &mdash; their knowledge of the facts and techniques related to
     data structures and rigorous Python programming.
 
--   **Engineering Efforts**: Graded on a percentage basis. These assignments
-    invite students to explore
+-   **Engineering Efforts**: Graded on a percentage basis.
+    These assignments invite students to explore
     different techniques for rigorously designing, implementing, evaluating, and
     documenting real-world Python programs. These assignments also encourage
     students to use tools like a terminal window and a modern
@@ -214,8 +213,17 @@ Using a report that the instructor shares with you through your assignment's
 GitHub repository, you will privately receive a grade for each
 assignment. Your grade will be a function of whether or not you completed
 correct work that fulfills the project's specification and submitted it by the
-deadline. For more details about the evaluation of course assignments, see this page about
-[proactive learning](https://proactiveprogrammers.com/proactive-learning/introduction-proactive-learning/).
+deadline. 
+
+**Engineering Efforts** are graded. Half of the grade is set by
+the percentage of gatorgrade checks passed. The other half of the grade is set by
+three check marks (16.67% each) for code correctness, writing quality, and
+professional skills respectively. Professional skills are linting, formatting,
+testing, and/or profiling.
+
+**Programming Projects** are pass/fail. A full mark is earned by
+passing **100%** of the gatorgrade checks on the assignment. All
+other gatorgrade scores will earn 0 points.
 
 ### Redoing Assignments
 
