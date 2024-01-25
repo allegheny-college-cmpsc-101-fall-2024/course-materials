@@ -18,8 +18,8 @@
 
 To meet with the course instructor during office hours, please visit the
 [Google Calendar for Office Hours](https://calendar.app.google/MYV4AVsQG2fUM9Ja7)
-to reserve an appointment(s) as needed. If there are **no suitable
-times**, contact the instructor.
+to reserve an appointment(s) as needed. If there are no suitable
+times, contact the instructor.
 
 ## Course Description
 
@@ -200,8 +200,8 @@ These grading categories have the following definitions:
 ### Assignment Submission
 
 All assignments will have a stated due date shared through GitHub, GitHub
-Classroom, and Discord. Electronic versions of the engineering efforts,
-programming projects, and source code surveys must be submitted to the
+Classroom, and Discord. Electronic versions of the engineering efforts and
+programming projects must be submitted to the
 instructor through a student's GitHub repository created by GitHub Classroom. No
 credit will be awarded for any course work that you submit to the incorrect
 GitHub repository. Unless special arrangements are made with the instructor, no
@@ -209,16 +209,15 @@ work will be accepted after the published assignment deadline.
 
 ### Assignment Evaluation
 
-Using a report that the instructor shares with you through your assignment's
-GitHub repository, you will privately receive a grade for each
-assignment. Your grade will be a function of whether or not you completed
+You will privately receive a grade for each assignment in the
+[gradebook repository]. Your grade will be a function of whether or not you completed
 correct work that fulfills the project's specification and submitted it by the
-deadline. 
+deadline.
 
 **Engineering Efforts** are graded. Half of the grade is set by
 the percentage of gatorgrade checks passed. The other half of the grade is set by
 three check marks (16.67% each) for code correctness, writing quality, and
-professional skills respectively. Professional skills are linting, formatting,
+professional skills respectively. Professional skills include linting, formatting,
 testing, and/or profiling.
 
 **Programming Projects** are pass/fail. A full mark is earned by
@@ -344,12 +343,11 @@ Students who are struggling to understand the knowledge and skills developed in
 either a class, laboratory, or programming session are encouraged to seek
 assistance from the course instructor and the student technical leaders.
 Students should, within the bounds of the Honor Code, ask and answer questions
-on the Discord server for our course; please request assistance from the
-instructor and student technical leaders first through Discord before
-sending an email. Students who need the course instructor's assistance must
-schedule a meeting through the instructor's office hours calendar and come to the meeting with all
-of the details needed to discuss their question. Students can find out the
-office hour schedule for student technical leaders in the [departmental Discord Server](https://discord.gg/CS2h9kXzX6)
+on the #data-structures Discord channel. The Discord channel is preferred to make
+learning and teaching collaborative. Students can find out the
+office hour schedule for student TLs in the
+[CIS Discord Server](https://discord.gg/CS2h9kXzX6) under #tl-office-hours, or
+book appointments for office hours with the instructor.
 
 For exams and all other coursework, students are expected 
 to adhere to the given instructions specifying what is or is not considered authorized 
