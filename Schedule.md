@@ -23,5 +23,5 @@
 |-------|------------------|-----------------------------|----------------------|
 |M Jan 29|[Reading: command line interface](https://www.coursera.org/articles/command-line-interface) <br> [Reading: Guttag Chapter 3](https://books.google.com/books?id=f57uDwAAQBAJ&pg=PA45&source=gbs_toc_r&cad=1#v=onepage&q&f=false) <br> [Reading: Guttag Chapter 3 extra pages](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/)|[Slides: Python Foundations - functions](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240129-python-foundations-functions.pdf) <br> [Colab: Function Activity](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240129_python_foundations_functions.ipynb) <br> [Slides: Numerical Computation](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240129-numerical-computation.pdf) <br> [Colab: Numerical Computation](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240129_numerical_computation.ipynb)||
 |W Jan 31||||
-|Th Feb 01|||[Reading: Guttag Chapter 4](https://books.google.com/books?id=KabKDAAAQBAJ&pg=PA39&source=gbs_toc_r&cad=2#v=onepage&q&f=false) |
-|F Feb 02||||
+|Th Feb 01|[Repo: Numerical Data](https://classroom.github.com/a/GW1VSIKb) due Feb 1 at 2:30pm||[Reading: Guttag Chapter 4](https://books.google.com/books?id=KabKDAAAQBAJ&pg=PA39&source=gbs_toc_r&cad=2#v=onepage&q&f=false) <br> [Repo:]|
+|F Feb 02|||[Repo:]|
