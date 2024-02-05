@@ -30,8 +30,8 @@
 
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
-|M Feb 05|[Reading: Guttag Chapter 4](https://books.google.com/books?id=KabKDAAAQBAJ&pg=PA39&source=gbs_toc_r&cad=2#v=onepage&q&f=false)||[Repo: Square Roots] due Feb 12 at 11:59pm |
-|W Feb 07||||
+|M Feb 05|[Reading: Guttag Chapter 4](https://books.google.com/books?id=KabKDAAAQBAJ&pg=PA39&source=gbs_toc_r&cad=2#v=onepage&q&f=false)|[Slides: Function Scope on Proactive Programmers](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#function-scope)||
+|W Feb 07|||[Repo: Square Roots] due Feb 12 at 11:59pm|
 |Th Feb 08|[Repo: Integer Squaring](https://classroom.github.com/a/a5tL9utq) Feb 8 at 2:30pm ||[Repo: Prime Testing] due Feb 15 at 11:59pm|
 |F Feb 09||||
 
@@ -39,7 +39,7 @@
 
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
-|M Feb 12|[Repo: Square Roots] due Feb 12 at 11:59pm |||
-|W Feb 14||||
+|M Feb 12||||
+|W Feb 14|[Repo: Square Roots] due Feb 12 at 11:59pm|||
 |Th Feb 15|[Repo: Prime Testing] due Feb 15 at 11:59pm |||
-|F Feb 16||Midterm 1||
+|F Feb 16||Midterm 1 9am||
