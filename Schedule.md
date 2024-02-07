@@ -32,7 +32,7 @@
 |-------|------------------|-----------------------------|----------------------|
 |M Feb 05|[Reading: Guttag Chapter 4](https://books.google.com/books?id=KabKDAAAQBAJ&pg=PA39&source=gbs_toc_r&cad=2#v=onepage&q&f=false)|[Slides: Function Scope on Proactive Programmers](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#function-scope)||
 |W Feb 07|||[Repo: Square Roots](https://classroom.github.com/a/PFU_WlFz) due Feb 15 at 11:59pm|
-|Th Feb 08|[Repo: Integer Squaring](https://classroom.github.com/a/a5tL9utq) Feb 8 at 2:30pm ||[Repo: Prime Testing] due Feb 15 at 11:59pm|
+|Th Feb 08|[Repo: Integer Squaring](https://classroom.github.com/a/a5tL9utq) due at 2:30pm ||[Repo: Prime Testing] due Feb 18 at 11:59pm|
 |F Feb 09||||
 
 ## Week 5 - Review
@@ -41,5 +41,15 @@
 |-------|------------------|-----------------------------|----------------------|
 |M Feb 12||||
 |W Feb 14||||
-|Th Feb 15|[Repo: Prime Testing] due at 11:59pm <br> [Repo: Square Roots](https://classroom.github.com/a/PFU_WlFz) due at 11:59pm |||
-|F Feb 16||Midterm 1 9am||
+|Th Feb 15|[Repo: Square Roots](https://classroom.github.com/a/PFU_WlFz) due at 11:59pm |||
+|F Feb 16||||
+|Su Feb 18|[Repo: Prime Testing] due at 11:59pm|||
+
+## Week 5 - Structured Types
+
+| Date  | Due              | Links to in-class materials | Links to new assignments |
+|-------|------------------|-----------------------------|----------------------|
+|M Feb 19||Midterm 1 9am||
+|W Feb 21||||
+|Th Feb 22||||
+|F Feb 23||||
