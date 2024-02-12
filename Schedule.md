@@ -39,7 +39,7 @@
 
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
-|M Feb 12|Reading: Guttag 1-4|[Slides: Function keywords, higher-order functions, lambdas](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240212-kwargs-higher-order-functions-lambdas.pdf) <br> [Colab: keywords, higher... lambdas...](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240212_keyword_args_lambdas.ipynb.ipynb) ||
+|M Feb 12|Reading: Guttag 1-4|[Slides: Function keywords, higher-order functions, lambdas](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240212-kwargs-higher-order-functions-lambdas.pdf) <br> [Colab: keywords, higher... lambdas...](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240212_keyword_args_lambdas.ipynb) ||
 |W Feb 14||[Repo: Review]||
 |Th Feb 15|[Repo: Square Roots](https://classroom.github.com/a/PFU_WlFz) due at 11:59pm |||
 |F Feb 16||||
