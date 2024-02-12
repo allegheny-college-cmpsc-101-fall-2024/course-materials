@@ -39,8 +39,8 @@
 
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
-|M Feb 12||||
-|W Feb 14||||
+|M Feb 12|Reading: Guttag 1-4|[Slides: Function keywords, higher-order functions, lambdas](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240212-kwargs-higher-order-functions-lambdas.pdf) <br> [Colab: keywords, higher... lambdas...](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240212_keyword_args_lambdas.ipynb.ipynb) ||
+|W Feb 14||[Repo: Review]||
 |Th Feb 15|[Repo: Square Roots](https://classroom.github.com/a/PFU_WlFz) due at 11:59pm |||
 |F Feb 16||||
 |Su Feb 18|[Repo: Prime Testing](https://classroom.github.com/a/RslfQwMI) due at 11:59pm|||
@@ -49,7 +49,7 @@
 
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
-|M Feb 19||Midterm 1 9am||
+|M Feb 19||Midterm in person 9am||
 |W Feb 21||||
 |Th Feb 22||||
 |F Feb 23||||
