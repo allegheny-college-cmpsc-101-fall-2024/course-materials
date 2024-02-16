@@ -228,12 +228,13 @@ other gatorgrade scores will earn 0 points.
 
 The deadlines for assignments are hard deadlines.
 
-However, In each unit (3 total) you can choose to redo one assignment before the unit exam
+However, In each unit (3 total) you can choose to take an extension for one assignment
+before the unit exam
 and the instructor will completely swap out the old grade with the new one. Any
-type of assignment is allowed to be redone, but grading will be carried out
+type of assignment can be extended, but grading will be carried out
 according to the assignment type as stated in the Grading section above.
 
-To redo an assignment, create an issue in the GitHub repo, tag the instructor, and say
+To extend an assignment, create an issue in the GitHub repo, tag the instructor, and say
 that you want to resubmit the assignment. The instructor will re-open the classroom manager
 so you can push updates. When you are satisfied with your submission, please tag the instructor
 again so they can look at the changes.
