@@ -50,6 +50,7 @@
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
 |M Feb 19||Midterm in person 9am||
-|W Feb 21||||
+|Tu Feb 20|Any REDO for Unit 1 due at 11:59pm|||
+|W Feb 21|Reading: Guttag Chapter 5|||
 |Th Feb 22||||
 |F Feb 23||||

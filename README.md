@@ -148,13 +148,11 @@ during the academic semester.
 These grading categories have the following definitions:
 
 -   **Course Participation**: Students are expected to regularly attend and
-    actively participate in all class and laboratory sessions. After either an
-    unexcused absence or a late attendance to a either a class or laboratory
-    session on two separate occasions, a student's course participation grade
-    will be reduced by half a percentage for each additional time they are
-    absent or late in an unexcused fashion. Students who need to miss class or
-    attend class late for an excused reason should communicate their situation
-    to the course instructor as soon as possible.
+    actively participate in all class and laboratory sessions. Participation
+    is determined by the completion of in-class exercises and timely cloning
+    of repositories that are released in labs. Students who need to miss class
+    or attend class late for an excused reason should communicate their
+    situation to the course instructor as soon as possible.
 
 -   **Midterm Examinations**: The midterms are online cumulative assessments
     covering all prior material from the class, programming, and laboratory
@@ -214,11 +212,11 @@ You will privately receive a grade for each assignment in the
 correct work that fulfills the project's specification and submitted it by the
 deadline.
 
-**Engineering Efforts** are graded. Half of the grade is set by
-the percentage of gatorgrade checks passed. The other half of the grade is set by
-three check marks (16.67% each) for code correctness, writing quality, and
-professional skills respectively. Professional skills include linting, formatting,
-testing, and/or profiling.
+**Engineering Efforts** are graded. Sixty percent of the grade is set by
+the percentage of gatorgrade checks passed. Forty percent of the grade is
+set by three check marks (13.3% each) for code correctness, writing quality,
+and professional skills respectively. Professional skills include linting,
+formatting, testing, and/or profiling.
 
 **Programming Projects** are pass/fail. A full mark is earned by
 passing **100%** of the gatorgrade checks on the assignment. All
