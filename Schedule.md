@@ -45,17 +45,17 @@
 |F Feb 16||||
 |Su Feb 18|[Repo: Prime Testing](https://classroom.github.com/a/RslfQwMI) due at 11:59pm|||
 
-## Week 5 - Structured Types
+## Week 6 - Structured Types
 
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
 |M Feb 19||Midterm in person 9am||
 |Tu Feb 20|Any REDO for Unit 1 due at 11:59pm|||
-|W Feb 21|Reading: Guttag Chapter 5||[Repo: Structured Types](https://classroom.github.com/a/Fxj3JGsj) due Feb 28th at 11:59pm |
+|W Feb 21|Reading: Guttag Chapter 5|[Colab: Structured Types Tuples](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240221_structured_types_tuples.ipynb)|[Repo: Structured Types](https://classroom.github.com/a/Fxj3JGsj) due Feb 28th at 11:59pm |
 |Th Feb 22|||[Repo: Intersection Algorithms] due Feb 29 at 2:30pm <br> Reading: Guttag Chapter 6 + 7|
 |F Feb 23||||
 
-## Week 6 - Recursion
+## Week 7 - Recursion
 
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
