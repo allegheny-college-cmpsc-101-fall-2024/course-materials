@@ -51,6 +51,15 @@
 |-------|------------------|-----------------------------|----------------------|
 |M Feb 19||Midterm in person 9am||
 |Tu Feb 20|Any REDO for Unit 1 due at 11:59pm|||
-|W Feb 21|Reading: Guttag Chapter 5|||
+|W Feb 21|Reading: Guttag Chapter 5||[Repo: Structured Types](https://classroom.github.com/a/Fxj3JGsj) due Feb 28th at 11:59pm |
 |Th Feb 22||||
 |F Feb 23||||
+
+## Week 6
+
+| Date  | Due              | Links to in-class materials | Links to new assignments |
+|-------|------------------|-----------------------------|----------------------|
+|M Feb 26||||
+|W Feb 28|[Repo: Structured Types](https://classroom.github.com/a/Fxj3JGsj) due Feb 28th at 11:59pm|||
+|Th Feb 29||||
+|F March 1||||
