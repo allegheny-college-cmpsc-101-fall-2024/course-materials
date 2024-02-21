@@ -52,14 +52,14 @@
 |M Feb 19||Midterm in person 9am||
 |Tu Feb 20|Any REDO for Unit 1 due at 11:59pm|||
 |W Feb 21|Reading: Guttag Chapter 5||[Repo: Structured Types](https://classroom.github.com/a/Fxj3JGsj) due Feb 28th at 11:59pm |
-|Th Feb 22||||
+|Th Feb 22|||[Repo: Intersection Algorithms] due Feb 29 at 2:30pm <br> Reading: Guttag Chapter 6 + 7|
 |F Feb 23||||
 
-## Week 6
+## Week 6 - Recursion
 
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
-|M Feb 26||||
+|M Feb 26|Reading: Guttag Chapter 6 + 7|||
 |W Feb 28|[Repo: Structured Types](https://classroom.github.com/a/Fxj3JGsj) due Feb 28th at 11:59pm|||
-|Th Feb 29||||
+|Th Feb 29|[Repo: Intersection Algorithms] due 2:30pm||[Repo: Fibonacci Algorithms]|
 |F March 1||||
