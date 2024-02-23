@@ -53,7 +53,7 @@
 |Tu Feb 20|Any REDO for Unit 1 due at 11:59pm|||
 |W Feb 21|Reading: Guttag Chapter 5|[Colab: Structured Types Tuples](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240221_structured_types_tuples.ipynb)|[Repo: Structured Types](https://classroom.github.com/a/Fxj3JGsj) due Feb 28th at 11:59pm |
 |Th Feb 22||[Slides: Structured Types](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240222-structured-types.pdf) <br> [Colab: Structured...Lists...slicing](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240222_structured_types_lists.ipynb)| Reading: Guttag Chapter 6 + 7|
-|F Feb 23||[Slides: Aliasing, List Comprehensions, Sets, Dictionaries]|[Repo: Intersection Algorithms] due March 1 at 11:59pm|
+|F Feb 23||[Colab: List Comprehensions, Sets, Dictionaries](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240224_listcomp_sets_dicts.ipynb)|[Repo: Intersection Algorithms](https://classroom.github.com/a/OZRujdsM) due March 1 at 11:59pm|
 
 ## Week 7 - Recursion
 
@@ -62,7 +62,7 @@
 |M Feb 26|Reading: Guttag Chapter 6 + 7|||
 |W Feb 28|[Repo: Structured Types](https://classroom.github.com/a/Fxj3JGsj) due Feb 28th at 11:59pm|||
 |Th Feb 29|||[Repo: Fibonacci Algorithms] due March 14 at 2:30pm|
-|F March 1|[Repo: Intersection Algorithms] due 11:59pm|||
+|F March 1|[Repo: Intersection Algorithms](https://classroom.github.com/a/OZRujdsM) due 11:59pm|||
 
 ## Spring Break
 
@@ -73,5 +73,5 @@
 |M Mar 11||||
 |W Mar 13||||
 |Th Mar 14|[Repo: Fibonacci Algorithms] due 2:30pm|||
-|F Mar 15|[Repo: Intersection Algorithms] due 11:59pm|||
+|F Mar 15||||
 
