@@ -61,7 +61,7 @@
 |-------|------------------|-----------------------------|----------------------|
 |M Feb 26|Reading: Guttag Chapter 6 + 7|||
 |W Feb 28|[Repo: Structured Types](https://classroom.github.com/a/Fxj3JGsj) due Feb 28th at 11:59pm|||
-|Th Feb 29|||[Repo: Fibonacci Algorithms] due March 14 at 2:30pm|
+|Th Feb 29|||Reading: Guttag Chapter 8 + 9 <br> [Repo: Fibonacci Algorithms](https://classroom.github.com/a/PCxYh1k9) due March 14 at 11:59pm|
 |F March 1|[Repo: Intersection Algorithms](https://classroom.github.com/a/OZRujdsM) due 11:59pm|||
 
 ## Spring Break
@@ -70,8 +70,8 @@
 
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
-|M Mar 11||||
+|M Mar 11|Reading: Guttag Chapter 8 + 9|||
 |W Mar 13||||
-|Th Mar 14|[Repo: Fibonacci Algorithms] due 2:30pm|||
+|Th Mar 14|[Repo: Fibonacci Algorithms](https://classroom.github.com/a/PCxYh1k9) due 11:59pm|||
 |F Mar 15||||
 
