@@ -62,7 +62,7 @@
 |M Feb 26|Reading: Guttag Chapter 6 + 7|||
 |W Feb 28|[Repo: Structured Types](https://classroom.github.com/a/Fxj3JGsj) due Feb 28th at 11:59pm|[Slides: Recursion Intro](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240228-recursion.pdf)||
 |Th Feb 29|||[Reading: Intro to Linked Lists](https://en.wikipedia.org/wiki/Linked_list) <br> Reading: Guttag Chapter 8 + 9 <br> [Repo: Fibonacci Algorithms](https://classroom.github.com/a/PCxYh1k9) due March 14 at 11:59pm|
-|F March 1|[Repo: Intersection Algorithms](https://classroom.github.com/a/OZRujdsM) due 11:59pm|||
+|F March 1|[Repo: Intersection Algorithms](https://classroom.github.com/a/OZRujdsM) due 11:59pm|[Colab: Recursion Examples](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240301_recursion.ipynb)||
 
 ## Spring Break
 
