@@ -71,7 +71,7 @@
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
 |M Mar 11|Reading: Guttag Chapter 8 + 9|||
-|W Mar 13||||
+|W Mar 13||Slides: Modules, Testing, Exceptions [[pdf]](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240313-modules-testing.pdf)[[pptx]](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240313-modules-testing.pptx) <br> [Colab: Modules, Testing, Exceptions](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240313_modules_testing.ipynb)||
 |Th Mar 14|[Repo: Fibonacci Algorithms](https://classroom.github.com/a/PCxYh1k9) due 11:59pm|||
 |F Mar 15||||
 
