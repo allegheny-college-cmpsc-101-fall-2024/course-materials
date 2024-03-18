@@ -73,5 +73,22 @@
 |M Mar 11|Reading: Guttag Chapter 8 + 9|||
 |W Mar 13||Slides: Modules, Testing, Exceptions [[pdf]](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240313-modules-testing.pdf)[[pptx]](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240313-modules-testing.pptx) <br> [Colab: Modules, Testing, Exceptions](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240313_modules_testing.ipynb)||
 |Th Mar 14|[Repo: Fibonacci Algorithms](https://classroom.github.com/a/PCxYh1k9) due 11:59pm||[Repo: Debugging](https://classroom.github.com/a/FtRwkV4k) due at 2:30pm March 21 <br> [Repo: Palindromes](https://classroom.github.com/a/xzIaiM53) due at 11:59pm March 21|
-|F Mar 15||||
+|F Mar 15|||Reading: Guttag Chapter 10|
 
+## Week 9 - Classes and Object-Oriented Programming
+
+| Date  | Due              | Links to in-class materials | Links to new assignments |
+|-------|------------------|-----------------------------|----------------------|
+|M Mar 18|Reading: Guttag Chapter 10|[Slides: Classes Intro](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240318-classes-oop-intro.pdf) <br> [Colab: Classes Intro](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240318_train_class.ipynb)||
+|W Mar 20||||
+|Th Mar 21|[Repo: Debugging](https://classroom.github.com/a/FtRwkV4k) due at 2:30pm <br> [Repo: Palindromes](https://classroom.github.com/a/xzIaiM53) due at 11:59pm|| [Repo: Container Cloning] due at 2:30pm March 28th <br> [Repo: Object Processing] due at 2:30pm on March 28th|
+|F Mar 22||||
+
+## Week 10 - Review
+
+| Date  | Due              | Links to in-class materials | Links to new assignments |
+|-------|------------------|-----------------------------|----------------------|
+|M Mar 25|Reading: Guttag Chapters 5-10|||
+|W Mar 27||||
+|Th Mar 28|[Repo: Container Cloning] due at 2:30pm <br> [Repo: Object Processing] due at 2:30pm |||
+|F Mar 22| Midterm in person 9am |||
