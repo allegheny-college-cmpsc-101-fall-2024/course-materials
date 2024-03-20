@@ -80,7 +80,7 @@
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
 |M Mar 18||[Slides: Classes Intro](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240318-classes-oop-intro.pdf) <br> [Colab: Classes Intro](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240318_train_class.ipynb)|Reading: Guttag Chapter 10|
-|W Mar 20||||
+|W Mar 20||[Slides: Polymorphism, Inheritance, Encapsulation](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240321-oop-continued.pdf) <br> [Colab: Person Example](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240321_oop_continued.ipynb)||
 |Th Mar 21|[Repo: Debugging](https://classroom.github.com/a/FtRwkV4k) due at 2:30pm <br> [Repo: Palindromes](https://classroom.github.com/a/xzIaiM53) due at 11:59pm|| [Repo: Container Cloning] due at 2:30pm March 28th <br> [Repo: Object Processing] due at 2:30pm on March 28th|
 |F Mar 22|Reading: Guttag Chapter 10|||
 
