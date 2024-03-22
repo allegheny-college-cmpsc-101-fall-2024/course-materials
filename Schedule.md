@@ -84,7 +84,7 @@
 |M Mar 18||[Slides: Classes Intro](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240318-classes-oop-intro.pdf) <br> [Colab: Classes Intro](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240318_train_class.ipynb)|Reading: Guttag Chapter 10|
 |W Mar 20||[Slides: Polymorphism, Inheritance, Encapsulation](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240321-oop-continued.pdf)||
 |Th Mar 21|[Repo: Debugging](https://classroom.github.com/a/FtRwkV4k) due at 2:30pm <br> [Repo: Palindromes](https://classroom.github.com/a/xzIaiM53) due at 11:59pm|| [Repo: Aliasing vs. Cloning](https://classroom.github.com/a/rYD_qEg2) due at 11:59pm March 28th <br> [Repo: Object Processing](https://classroom.github.com/a/sKOb6Q9f) due at 11:59pm on March 28th|
-|F Mar 22|Reading: Guttag Chapter 10|<br> [Colab: ]()||
+|F Mar 22|Reading: Guttag Chapter 10| [Slides: Object Processing](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240322-object-processing.pdf) <br> [Colab: Object Processing](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240322_object_processing.ipynb)||
 
 ## Week 10 - Review
 
