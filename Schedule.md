@@ -91,7 +91,7 @@
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
 |M Mar 25|Reading: Guttag Chapters 5-10|||
-|W Mar 27||||
+|W Mar 27||[Repo: Exam Two Review](https://classroom.github.com/a/rovonGh4)||
 |Th Mar 28|[Repo: Aliasing vs. Cloning](https://classroom.github.com/a/rYD_qEg2) due at 11:59pm <br> [Repo: Object Processing](https://classroom.github.com/a/sKOb6Q9f) due at 11:59pm |||
 |F Mar 29| Midterm in person 9am |||
 
