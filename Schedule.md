@@ -96,3 +96,41 @@
 |F Mar 29| Midterm in person 9am |||
 
 # Unit 3
+
+## Week 11 - Algorithmic Complexity
+
+| Date  | Due              | Links to in-class materials | Links to new assignments |
+|-------|------------------|-----------------------------|----------------------|
+|M Apr 01||[Slides: Algorithmic Complexity Intro](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240401-algorithmic-complexity-intro.pdf) <br> [Colab: Timing on Proactive Programmers](https://githubtocolab.com/ProactiveProgrammers/www.proactiveprogrammers.com/blob/master/files/data-abstraction/algorithmic-complexity/perform-timing-experiments.ipynb)|Reading: Guttag Chapter 11|
+|W Apr 03|||[Repo: Containment Checking](https://classroom.github.com/a/mpStdyU4) due Th April 11 at 2:30pm|
+|Th Apr 04||||
+|F Apr 05||||
+
+## Week 12 - Algorithmic Complexity
+
+| Date  | Due              | Links to in-class materials | Links to new assignments |
+|-------|------------------|-----------------------------|----------------------|
+|M Apr 08|||Reading: Guttag Chapter 12|
+|W Apr 10||||
+|Th Apr 11|[Repo: Containment Checking](https://classroom.github.com/a/mpStdyU4) due at 2:30pm||[Repo: Sorting Algorithms] due Th April 18th at 2:30pm|
+|F Apr 12||||
+
+## Week 13 - Data Structures
+
+| Date  | Due              | Links to in-class materials | Links to new assignments |
+|-------|------------------|-----------------------------|----------------------|
+|M Apr 15||||
+|W Apr 17||||
+|Th Apr 18|Repo: Sorting Algorithms] due at 2:30pm||[Repo: Matrix Processing] due Th April 25th at 2:30pm <br> [Repo: Data Structures] due Th April 25th at 2:30pm|
+|F Apr 19||||
+
+## Week 14 - Optimization
+
+| Date  | Due              | Links to in-class materials | Links to new assignments |
+|-------|------------------|-----------------------------|----------------------|
+|M Apr 22||||
+|W Apr 24|||[Repo: Knapsack Solver] due Th May 2 at 9am|
+|Th Apr 25|[Repo: Matrix Processing] due at 2:30pm <br> [Repo: Data Structures] due at 2:30pm|||
+|F Apr 26||||
+
+- **Final Examination**: *Examination Code*: A, *Date*: Thursday, May 2nd, 2024 at 09:00 AM. [Complete Final Exam Schedule](https://sites.allegheny.edu/registrar/spring-2024-final-exam-schedule/)
