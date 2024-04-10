@@ -111,7 +111,7 @@
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
 |M Apr 08|||Reading: Guttag Chapter 12|
-|W Apr 10||[Slides: Sorting Agorithms]() <br> [Colab: Sorting Algorithms]()||
+|W Apr 10||[Slides: Sorting Agorithms](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240410-sorting.pdf) <br> [Colab: Sorting Algorithms](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240409_sorting.ipynb)||
 |Th Apr 11|Reading: Guttag Chapter 12 <br> [Repo: Containment Checking](https://classroom.github.com/a/mpStdyU4) due at 2:30pm||[Repo: Sorting Algorithms] due Th April 18th at 2:30pm|
 |F Apr 12||||
 
