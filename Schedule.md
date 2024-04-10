@@ -104,15 +104,15 @@
 |M Apr 01||[Slides: Algorithmic Complexity Intro](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240401-algorithmic-complexity-intro.pdf) <br> [Colab: Timing on Proactive Programmers](https://githubtocolab.com/ProactiveProgrammers/www.proactiveprogrammers.com/blob/master/files/data-abstraction/algorithmic-complexity/perform-timing-experiments.ipynb)|Reading: Guttag Chapter 11|
 |W Apr 03|||[Repo: Containment Checking](https://classroom.github.com/a/mpStdyU4) due Th April 11 at 2:30pm|
 |Th Apr 04||||
-|F Apr 05||[Colab: Dicitonary Implementation](https://colab.research.google.com/github/ProactiveProgrammers/www.proactiveprogrammers.com/blob/master/files/data-abstraction/data-structures/create-and-use-dictionaries.ipynb#scrollTo=D3sBxlBtWl3Z)||
+|F Apr 05||[Colab: Dictionary Implementation](https://colab.research.google.com/github/ProactiveProgrammers/www.proactiveprogrammers.com/blob/master/files/data-abstraction/data-structures/create-and-use-dictionaries.ipynb#scrollTo=D3sBxlBtWl3Z)||
 
 ## Week 12 - Algorithmic Complexity
 
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
 |M Apr 08|||Reading: Guttag Chapter 12|
-|W Apr 10||||
-|Th Apr 11|[Repo: Containment Checking](https://classroom.github.com/a/mpStdyU4) due at 2:30pm||[Repo: Sorting Algorithms] due Th April 18th at 2:30pm|
+|W Apr 10||[Slides: Sorting Agorithms]() <br> [Colab: Sorting Algorithms]()||
+|Th Apr 11|Reading: Guttag Chapter 12 <br> [Repo: Containment Checking](https://classroom.github.com/a/mpStdyU4) due at 2:30pm||[Repo: Sorting Algorithms] due Th April 18th at 2:30pm|
 |F Apr 12||||
 
 ## Week 13 - Data Structures
