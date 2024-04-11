@@ -112,7 +112,7 @@
 |-------|------------------|-----------------------------|----------------------|
 |M Apr 08|||Reading: Guttag Chapter 12|
 |W Apr 10||[Slides: Sorting Agorithms](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240410-sorting.pdf) <br> [Colab: Sorting Algorithms](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240409_sorting.ipynb)||
-|Th Apr 11|Reading: Guttag Chapter 12 <br> [Repo: Containment Checking](https://classroom.github.com/a/mpStdyU4) due at 2:30pm||[Repo: Sorting Algorithms] due Th April 18th at 2:30pm|
+|Th Apr 11|Reading: Guttag Chapter 12 <br> [Repo: Containment Checking](https://classroom.github.com/a/mpStdyU4) due at 2:30pm||[Repo: Sorting Algorithms](https://classroom.github.com/a/HMxV0yKb) due Th April 18th at 2:30pm|
 |F Apr 12||||
 
 ## Week 13 - Data Structures
@@ -121,7 +121,7 @@
 |-------|------------------|-----------------------------|----------------------|
 |M Apr 15||||
 |W Apr 17||||
-|Th Apr 18|Repo: Sorting Algorithms] due at 2:30pm||[Repo: Matrix Processing] due Th April 25th at 2:30pm <br> [Repo: Data Structures] due Th April 25th at 2:30pm|
+|Th Apr 18|[Repo: Sorting Algorithms](https://classroom.github.com/a/HMxV0yKb) due at 2:30pm||[Repo: Matrix Processing] due Th April 25th at 2:30pm <br> [Repo: Data Structures] due Th April 25th at 2:30pm|
 |F Apr 19||||
 
 ## Week 14 - Optimization
