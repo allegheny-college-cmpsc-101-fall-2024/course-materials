@@ -119,9 +119,9 @@
 
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
-|M Apr 15||||
-|W Apr 17||||
-|Th Apr 18|[Repo: Sorting Algorithms](https://classroom.github.com/a/HMxV0yKb) due at 2:30pm||[Repo: Matrix Processing] due Th April 25th at 2:30pm <br> [Repo: Data Structures] due Th April 25th at 2:30pm|
+|M Apr 15|| work time ||
+|W Apr 17|| list of lists <br> [Colab: Dictionary Implementation](https://colab.research.google.com/github/ProactiveProgrammers/www.proactiveprogrammers.com/blob/master/files/data-abstraction/data-structures/create-and-use-dictionaries.ipynb#scrollTo=D3sBxlBtWl3Z) ||
+|Th Apr 18|[Repo: Sorting Algorithms](https://classroom.github.com/a/HMxV0yKb) due at 2:30pm||[Repo: Matrix Processing](https://classroom.github.com/a/S_N154_C) due Th April 25th at 2:30pm|
 |F Apr 19||||
 
 ## Week 14 - Optimization
@@ -130,7 +130,7 @@
 |-------|------------------|-----------------------------|----------------------|
 |M Apr 22||||
 |W Apr 24|||[Repo: Knapsack Solver] due Th May 2 at 9am|
-|Th Apr 25|[Repo: Matrix Processing] due at 2:30pm <br> [Repo: Data Structures] due at 2:30pm|||
+|Th Apr 25|[Repo: Matrix Processing](https://classroom.github.com/a/S_N154_C) due at 2:30pm |||
 |F Apr 26||||
 
 - **Final Examination**: *Examination Code*: A, *Date*: Thursday, May 2nd, 2024 at 09:00 AM. [Complete Final Exam Schedule](https://sites.allegheny.edu/registrar/spring-2024-final-exam-schedule/)
