@@ -226,8 +226,7 @@ other gatorgrade scores will earn 0 points.
 
 The deadlines for assignments are hard deadlines.
 
-However, In each unit (3 total) you can choose to take an extension for one assignment
-before the unit exam
+However, you can choose to take an extension for any three assignments
 and the instructor will completely swap out the old grade with the new one. Any
 type of assignment can be extended, but grading will be carried out
 according to the assignment type as stated in the Grading section above.
