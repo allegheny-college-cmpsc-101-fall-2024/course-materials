@@ -129,7 +129,7 @@
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
 |M Apr 22||||
-|W Apr 24|||[Repo: Knapsack Solver] due Th May 2 at 9am|
+|W Apr 24||[Slides: Optimization](https://proactiveprogrammers.com/slides/data-abstraction/optimization-problems/) <br> [Colab: Optimization](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240414_optimization.ipynb)|[Repo: Knapsack Solver] due Th May 2 at 9am|
 |Th Apr 25|[Repo: Matrix Processing](https://classroom.github.com/a/S_N154_C) due at 2:30pm |||
 |F Apr 26||||
 
