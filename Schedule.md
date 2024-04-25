@@ -130,7 +130,7 @@
 |-------|------------------|-----------------------------|----------------------|
 |M Apr 22|||Reading: Guttag Chapter 14|
 |W Apr 24||[Slides: Optimization](https://proactiveprogrammers.com/slides/data-abstraction/optimization-problems/) <br> [Colab: Optimization](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/notes/20240414_optimization.ipynb)||
-|Th Apr 25|[Repo: Matrix Processing](https://classroom.github.com/a/S_N154_C) due at 2:30pm ||[Repo: Knapsack Solver]() due Th May 2 at 9am <br> [Repo: Optional Final Exam Review]()|
+|Th Apr 25|[Repo: Matrix Processing](https://classroom.github.com/a/S_N154_C) due at 2:30pm ||[Repo: Knapsack Solvers](https://classroom.github.com/a/RwmVvId_) due Th May 2 at 9am <br> [Repo: Optional Final Exam Review]()|
 |F Apr 26||[Department Survey](https://forms.gle/2xgGjr5NX6k84DPB9) <br> [RSE Survey](https://allegheny.instructure.com/courses/10870/external_tools/1268)||
 
 ## Week 15 - Review
@@ -138,6 +138,6 @@
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
 |M Apr 29|Reading: Guttag Chapter 14|||
-|Th May 2|[Repo: Knapsack Solver]() due at 9am|||
+|Th May 2|[Repo: Knapsack Solvers](https://classroom.github.com/a/RwmVvId_) due at 9am|||
 
 - **Final Examination**: *Examination Code*: A, *Date*: Thursday, May 2nd, 2024 at 09:00 AM. [Complete Final Exam Schedule](https://sites.allegheny.edu/registrar/spring-2024-final-exam-schedule/)
