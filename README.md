@@ -2,7 +2,7 @@
 
 ## Course Meeting Schedule
 
-- Class Sessions: MWF 9 AM-9:50 AM, Alden 101
+- Class Sessions: MWF 10 AM-10:50 AM, Alden 101
 - Laboratory Session: Thursday, 2:30 PM-4:20 PM, Alden 101
 
 ## Instructor Information
@@ -12,9 +12,7 @@
 
 ### Instructor Office Hours
 
-- Monday: Alden 106, 12-1pm
-- Tuesday: Alden 106, 2-4pm
-- Wednesday: Alden 106, 10-10:30am, 12-1pm, 2-3:30pm
+TBD
 
 To meet with the course instructor during office hours, please visit the
 [Google Calendar for Office Hours](https://calendar.app.google/MYV4AVsQG2fUM9Ja7)
@@ -65,7 +63,7 @@ understanding of the nature, approaches, and domain of scientific inquiry.
 
 ## Materials
 
-### Suggested Textbook
+### Textbook
 
 [Introduction to Computation and Programming Using Python](https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-third-edition)
 by [John V. Guttag](https://people.csail.mit.edu/guttag/)
@@ -76,8 +74,8 @@ To order through the [virtual campus bookstore](https://bncvirtual.com/allegheny
 
 ### Required Software and Accounts
 
-- Visual Studio Code
-- Python 3
+- Sublime Text 4
+- Python 3.12
 - pipx
 - Poetry
 - Gatorgrade
@@ -85,47 +83,48 @@ To order through the [virtual campus bookstore](https://bncvirtual.com/allegheny
 - Free GitHub Account
 - Free Discord Account
 - Google Account
+- Visual Studio Code
 
 ## Online Resources and Course Materials
 
-- [Syllabus](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials)
-- [Schedule](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/Schedule.md)
-- [Course GitHub Organization](https://github.com/allegheny-college-cmpsc-101-spring-2024)
+- [Syllabus](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials)
+- [Schedule](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/Schedule.md)
+- [Course GitHub Organization](https://github.com/allegheny-college-cmpsc-101-fall-2024)
 - [Guttag Textbook Previews](https://books.google.com/books?id=f57uDwAAQBAJ&source=gbs_book_other_versions)
 - [Python Docs](https://docs.python.org/3/)
 - [Proactive Programmers](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/)
 
 ## Schedule At-A-Glance
 
-- **Week One**: January 17 to January 19: [Software Operations](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/Schedule.md#week-1---software-operations)
-- **Week Two**: January 22 to January 26: [Python Foundations](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/Schedule.md#week-2---python-foundations)
-- **Week Three**: January 29 to February 02: [Numerical Computation](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/Schedule.md#week-3---numerical-computation)
-- **Week Four**: February 5 to February 9: [Function Scope](https://github.com/allegheny-college-cmpsc-101-spring-2024/course-materials/blob/main/Schedule.md#week-4---function-scope)
-- **Week Five**: February 12 to February 16: Proactive Review
-- **Executable Examination One**: February 16 during the class session
+- **Week One**: August 28 to August 30: [Software Operations](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/Schedule.md#week-1---software-operations)
+- **Week Two**: September 4 to September 6: [Python Foundations](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/Schedule.md#week-2---python-foundations)
+- **Week Three**: September 9 to September 13: [Numerical Computation](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/Schedule.md#week-3---numerical-computation)
+- **Week Four**: September 16 to September 20: [Function Scope](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/Schedule.md#week-4---function-scope)
+- **Week Five**: September 23 to September 27: Proactive Review
+- **Executable Examination One**: September 27 during the class session
     - Relevant Modules:
         - Software Operation
         - Python Foundations
         - Numerical Computation
         - Function Scope
-- **Week Six**: February 19 to February 23: Structured Types
-- **Week Seven**: February 26 to March 01: Program Components
-- **Spring Break March 04 to March 08**
-- **Week Eight**: March 11 to March 15: Software Testing
-- **Week Nine**: March 18 to March 22: Object-Oriented Programming
-- **Week Ten**: March 25 to March 29: Proactive Review
-- **Executable Examination Two**: March 29 during the laboratory session
+- **Week Six**: September 30 to October 4: Structured Types
+- **Week Seven**: October 7 to October 9: Program Components
+- **Fall Break - October 10 to October 11****
+- **Week Eight**: October 14 to October 18: Software Testing
+- **Week Nine**: October 21 to October 25: Object-Oriented Programming
+- **Week Ten**: October 28 to November 1: Proactive Review
+- **Executable Examination Two**: November 1 during the laboratory session
     - Relevant Modules:
         - Structured Types
         - Program Components
         - Software Testing
         - Object-Oriented Programming
-- **Week Eleven**: April 1 to April 5: Algorithmic Complexity
-- **Week Twelve**: April 8 to April 12: Algorithmic Complexity
-- **Week Thirteen**: April 15 to April 19: Data Structures
-- **Week Fourteen**: April 22 to April 26: Optimization Problems
-- **Week Fifteen**: April 29: Proactive Review
-- **Final Examination**: *Examination Code*: A, *Date*: Thursday, May 2nd, 2024 at 09:00 AM. [Complete Final Exam Schedule](https://sites.allegheny.edu/registrar/spring-2024-final-exam-schedule/)
+- **Week Eleven**: November 4 to November 8: Algorithmic Complexity
+- **Week Twelve**: November 18 to November 22: Data Structures
+- **Week Thirteen**: November 25: Data Structures/Optimization Problems
+- **Thanksgiving Break - November 27 to November 29**
+- **Week Fourteen**: December 2 to December 6: Optimization Problems
+- **Final Examination**: *Examination Code*: G, *Date*: Wednesday, December 11, 2024 at 09:00 AM. [Complete Final Exam Schedule](https://sites.allegheny.edu/registrar/fall-2024-final-exam-schedule/)
     - Comprehensively covers all course modules
 
 ## Course Policies
@@ -137,43 +136,38 @@ categories. All of these percentages are approximate and, if the need to do so
 presents itself, the course instructor may change the assigned percentages
 during the academic semester.
 
-| Category               | Percentage |
-|------------------------| -----------|
-| Course Participation   |  5%        |
-| Midterm Examinations   |  10%       |
-| Final Examination      |  15%       |
-| Programming Projects   |  30%       |
-| Engineering Efforts    |  40%       |
+| Category             | Repeats |Unit Value| Total Percentage |
+|----------------------|---------|----------|------------------|
+| Attendance (7 free)  |50       |0.12%      |6%                |
+| Midterm Examinations |2        |6%        |12%               |
+| Final Examination    |1        |18%       |18%               |
+| Specification Labs         |8        |2%        |16%               |
+| Engineering Labs     |8        |4%        |32%               |
+| Lab Reflections      |16       |1%        |16%               |
 
 These grading categories have the following definitions:
 
--   **Course Participation**: Students are expected to regularly attend and
-    actively participate in all class and laboratory sessions. Participation
-    is determined by the completion of in-class exercises and timely cloning
-    of repositories that are released in labs. Students who need to miss class
-    or attend class late for an excused reason should communicate their
-    situation to the course instructor as soon as possible.
+-   **Attendance**: Students are expected to regularly attend and
+    actively participate in all class and laboratory sessions. Attendance
+    is determined by the completion of in-class materials. See the Attendance Policy below
+    for further elaboration on attendance expectations.
 
--   **Midterm Examinations**: The midterms are online cumulative assessments
+-   **Midterm Examinations**: The midterms are cumulative assessments
     covering all prior material from the class, programming, and laboratory
-    sessions, as outlined on the course schedule. Unless prior arrangements are
-    made with the instructor, all students should use their computer to take
-    this test on the scheduled date and to complete it in the stated location
-    while taking no more than the required amount of time. Each midterm is an
-    executable examination that a student will complete through the use of
-    GitHub, VS Code, and the programming tools installed on their laptops.
+    sessions, as outlined on the course schedule. All students should take
+    this test on the scheduled date and complete it in the stated location
+    while taking no more than the required amount of time. Instructions about the
+    format of each midterm will be provided at least one week before each exam.
 
--   **Final Examination**: The final is an online cumulative assessment covering
+-   **Final Examination**: The final is a cumulative assessment covering
     all of the material from the class, programming, and laboratory sessions, as
-    outlined on the course schedule. Unless prior arrangements are made with the
-    instructor, all students should use their computer to take this test on the
+    outlined on the course schedule. All students should take this test on the
     scheduled date and to complete it in the stated location while taking no
-    more than the required amount of time. The cumulative final is an executable
-    examination that a student will complete through the use of GitHub, VS Code,
-    and the programming tools installed on their laptops.
+    more than the required amount of time. Instructions about the
+    format of the final will be provided at least one week before the exam.
 
--   **Programming Projects**: Graded on a check mark basis.
-    Programming projects (i) help a learner to demonstrate that they can remember
+-   **Specification Labs**: Graded on a check mark basis, all or nothing.
+    Specification Labs, or Spec Labs for shprt, (i) help a learner to demonstrate that they can remember
     learned material
     by recalling facts, basic concepts, and answers to questions presented in
     the textbook and in course materials; (ii) allow a learner to
@@ -184,8 +178,8 @@ These grading categories have the following definitions:
     &mdash; in a new way &mdash; their knowledge of the facts and techniques related to
     data structures and rigorous Python programming.
 
--   **Engineering Efforts**: Graded on a percentage basis.
-    These assignments invite students to explore
+-   **Engineering Labs**: Graded on a percentage basis.
+    Engineering Labs invite students to explore
     different techniques for rigorously designing, implementing, evaluating, and
     documenting real-world Python programs. These assignments also encourage
     students to use tools like a terminal window and a modern
@@ -195,46 +189,36 @@ These grading categories have the following definitions:
     evaluate the implementation of a Python function as they consider trade-offs
     between, for instance, its efficiency, flexibility, and correctness.
 
-### Assignment Submission
-
-All assignments will have a stated due date shared through GitHub, GitHub
-Classroom, and Discord. Electronic versions of the engineering efforts and
-programming projects must be submitted to the
-instructor through a student's GitHub repository created by GitHub Classroom. No
-credit will be awarded for any course work that you submit to the incorrect
-GitHub repository. Unless special arrangements are made with the instructor, no
-work will be accepted after the published assignment deadline.
-
 ### Assignment Evaluation
 
-You will privately receive a grade for each assignment in the
-[gradebook repository]. Your grade will be a function of whether or not you completed
-correct work that fulfills the project's specification and submitted it by the
-deadline.
+You will privately receive a grade for each assignment in Canvas. Your grade will be a function of whether or not you completed the work that correctly fulfills the assignment's specification and submitted it by the deadline.
 
-**Engineering Efforts** are graded. Sixty percent of the grade is set by
-the percentage of gatorgrade checks passed. Forty percent of the grade is
-set by three check marks (13.3% each) for code correctness, writing quality,
-and professional skills respectively. Professional skills include linting,
-formatting, testing, and/or profiling.
+**Engineering Labs** are graded, i.e. assigned a number or percentage
+indicative of the proportion of points earned relative to the total possible.
+Fifty percent of the grade of each Engineering Lab is determined by
+the percentage of gatorgrade checks passed. One quarter of the grade is determined by code correctness following a rubric. One quarter of the grade is determined by professional
+presentation following a rubric. Professional presentation is impacted by linting,
+formatting, testing, profiling, duplication avoidance and commenting.
 
-**Programming Projects** are pass/fail. A full mark is earned by
+**Spec Labs** are pass/fail. A full mark is earned by
 passing **100%** of the gatorgrade checks on the assignment. All
 other gatorgrade scores will earn 0 points.
 
-### Redoing Assignments
+### Assignment Submission
+
+All assignments will have a stated due date stated in the
+Course Materials Schedule, GitHub
+Classroom, and Discord. Electronic versions of the Engineering and Project Labs
+must be submitted to the
+instructor through a student's GitHub repository created by GitHub Classroom. No
+credit will be awarded for any course work that you submit to the incorrect
+GitHub repository.
+
+### Late Work Policy
 
 The deadlines for assignments are hard deadlines.
 
-However, you can choose to take an extension for any three assignments
-and the instructor will completely swap out the old grade with the new one. Any
-type of assignment can be extended, but grading will be carried out
-according to the assignment type as stated in the Grading section above.
-
-To extend an assignment, create an issue in the GitHub repo, tag the instructor, and say
-that you want to resubmit the assignment. The instructor will re-open the classroom manager
-so you can push updates. When you are satisfied with your submission, please tag the instructor
-again so they can look at the changes.
+This policy is intended to ensure that students keep up with course topics, are able to actively participate in class, and are accountable for managing time effectively. Some assignments will be dropped automatically without penalty. Students may use this policy if they are unable to turn in work due to non-extenuating circumstances.
 
 ### Course Attendance
 
