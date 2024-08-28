@@ -19,7 +19,12 @@ To meet with the course instructor during office hours, please visit the
 to reserve an appointment(s) as needed. If there are no suitable
 times, contact the instructor.
 
+---
+
 ## Course Description
+
+- Prerequisite: CMPSC 100 or permission of the instructor.
+- Distribution Requirements: QR, SP.
 
 A continuation of CMPSC 100 with an emphasis on implementing, using, and
 evaluating the computational structures needed to efficiently store and retrieve
@@ -32,8 +37,16 @@ session, students use state-of-the-art technology to complete projects,
 reporting on their results through both written documents and oral
 presentations.
 
-- Prerequisite: CMPSC 100 or permission of the instructor.
-- Distribution Requirements: QR, SP.
+**Quantitative Reasoning (QR)**: Quantitative Reasoning is the ability to understand,
+investigate, communicate, and contextualize numerical, symbolic, and graphical information
+towards the exploration of natural, physical, behavioral, or social phenomena.
+
+**Scientific Process and Knowledge (SP)**: Courses involving Scientific Process and Knowledge
+aim to convey an understanding of what is known or can be known about the natural world;
+apply scientific reasoning towards the analysis and synthesis of scientific information; and
+create scientifically literate citizens who can engage productively in problem solving.
+
+---
 
 ## Course Learning Objectives
 
@@ -43,23 +56,14 @@ presentations.
 4. Use industry-standard practices, such as testing and debugging, and professional-grade integrated development environments (IDEs), command-line tools, and version control systems to implement Python programs.
 5. Implement Python programs and documentation that conforms to industry-standard formats and styles.
 
-### Further Objectives
-
-**Quantitative Reasoning (QR)**: Quantitative Reasoning is the ability to understand,
-investigate, communicate, and contextualize numerical, symbolic, and graphical information
-towards the exploration of natural, physical, behavioral, or social phenomena.
-
-*Learning Outcome*: Students who successfully complete this requirement will demonstrate
+*Learning Outcome QR*: Students who successfully complete this requirement will demonstrate
 an understanding of how to interpret numeric data and/or their graphical or symbolic
 representations.
 
-**Scientific Process and Knowledge (SP)**: Courses involving Scientific Process and Knowledge
-aim to convey an understanding of what is known or can be known about the natural world;
-apply scientific reasoning towards the analysis and synthesis of scientific information; and
-create scientifically literate citizens who can engage productively in problem solving.
-
-*Learning Outcome*: Students who successfully complete this requirement will demonstrate an
+*Learning Outcome SP*: Students who successfully complete this requirement will demonstrate an
 understanding of the nature, approaches, and domain of scientific inquiry.
+
+---
 
 ## Materials
 
@@ -85,14 +89,52 @@ To order through the [virtual campus bookstore](https://bncvirtual.com/allegheny
 - Google Account
 - Visual Studio Code
 
-## Online Resources and Course Materials
+### Online Resources and Course Materials
 
 - [Syllabus](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials)
 - [Schedule](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/Schedule.md)
 - [Course GitHub Organization](https://github.com/allegheny-college-cmpsc-101-fall-2024)
 - [Guttag Textbook Previews](https://books.google.com/books?id=f57uDwAAQBAJ&source=gbs_book_other_versions)
+- [Guttag Lectures](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/video_galleries/lecture-videos/)
 - [Python Docs](https://docs.python.org/3/)
 - [Proactive Programmers](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/)
+
+---
+
+## Course Components
+
+There are five main components that contribute to the grade in this course.
+
+1. Attendance: Attendance is required. Attendance is determined by the completion
+   of in-class materials.See [Course Policies](#course-policies)
+   below for further description of expectations.
+2. Specifications Labs: Generally shorter labs to be started in lab session and
+   completed outside of class. Graded pass/fail and falling in the `remember`,
+   `understand`, and `apply` categories of Bloom's Taxonomy.
+3. Engineering Labs: Generally longer labs to be started in lab session and
+   completed outside of class. Graded by percentage with rubric and falling in the
+   `analyze`, `evaluate`, and `create` categories of Bloom's Taxonomy.
+4. Lab reflections: Questions to be answered in person or through surveys online or on
+   paper about labs (both Specification and Engineering) that have just been completed. Lab reflections will take place at the beginning of lab sessions.
+5. Exams: Two cumulative midterms and one cumulative final exam are required.
+   Instructions about the format of each exam will be provided at least one week before each exam.
+
+![Blooms Taxonomy](https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/59/2019/03/27124326/Blooms-Taxonomy-650x366.jpg)
+
+### Grading
+
+The components described above will be weighted as shown in the table below.
+
+| Category             | Repeats |Unit Value| Total Percentage |
+|----------------------|---------|----------|------------------|
+| Attendance (7 free)  |50       |0.12%      |6%                |
+| Midterm Examinations |2        |6%        |12%               |
+| Final Examination    |1        |18%       |18%               |
+| Specification Labs   |8        |2%        |16%               |
+| Engineering Labs     |8        |4%        |32%               |
+| Lab Reflections      |16       |1%        |16%               |
+
+---
 
 ## Schedule At-A-Glance
 
@@ -127,141 +169,126 @@ To order through the [virtual campus bookstore](https://bncvirtual.com/allegheny
 - **Final Examination**: *Examination Code*: G, *Date*: Wednesday, December 11, 2024 at 09:00 AM. [Complete Final Exam Schedule](https://sites.allegheny.edu/registrar/fall-2024-final-exam-schedule/)
     - Comprehensively covers all course modules
 
-## Course Policies
+---
 
-### Grading
+## Attendance Policy
 
-The grade that a student receives in this class will be based on the following
-categories. All of these percentages are approximate and, if the need to do so
-presents itself, the course instructor may change the assigned percentages
-during the academic semester.
+Students are expected to come to class **prepared, on time,
+and to stay engaged** for the duration of the class period. This includes both class
+and lab sessions. This behavior is core to our shared departmental values and is in
+addition to the college’s attendance policy.
 
-| Category             | Repeats |Unit Value| Total Percentage |
-|----------------------|---------|----------|------------------|
-| Attendance (7 free)  |50       |0.12%      |6%                |
-| Midterm Examinations |2        |6%        |12%               |
-| Final Examination    |1        |18%       |18%               |
-| Specification Labs         |8        |2%        |16%               |
-| Engineering Labs     |8        |4%        |32%               |
-| Lab Reflections      |16       |1%        |16%               |
+### _Preparedness_
 
-These grading categories have the following definitions:
+Coming to class prepared means coming with everything you need to engage in a class session. To satisfy basic expectations of CIS courses, this means, at minimum, that students must:
 
--   **Attendance**: Students are expected to regularly attend and
-    actively participate in all class and laboratory sessions. Attendance
-    is determined by the completion of in-class materials. See the Attendance Policy below
-    for further elaboration on attendance expectations.
+- arrive at class with a fully charged laptop
+- bring their laptop charger or a battery pack so as to ensure that their laptop
+  works throughout the entire class session
+- complete any pre-session work such as readings and preparatory assignments
 
--   **Midterm Examinations**: The midterms are cumulative assessments
-    covering all prior material from the class, programming, and laboratory
-    sessions, as outlined on the course schedule. All students should take
-    this test on the scheduled date and complete it in the stated location
-    while taking no more than the required amount of time. Instructions about the
-    format of each midterm will be provided at least one week before each exam.
+### _Attendance and Lateness_
 
--   **Final Examination**: The final is a cumulative assessment covering
-    all of the material from the class, programming, and laboratory sessions, as
-    outlined on the course schedule. All students should take this test on the
-    scheduled date and to complete it in the stated location while taking no
-    more than the required amount of time. Instructions about the
-    format of the final will be provided at least one week before the exam.
+One missed class or lab session counts as one absence. Coming to class/lab late, leaving early, or missing a large portion of a class/lab session will result in your being marked as “late” to class. Coming to class/lab unprepared may also result in being marked “late”. Being marked “late” to class three times during the course of a semester is equal to one absence.
 
--   **Specification Labs**: Graded on a check mark basis, all or nothing.
-    Specification Labs, or Spec Labs for shprt, (i) help a learner to demonstrate that they can remember
-    learned material
-    by recalling facts, basic concepts, and answers to questions presented in
-    the textbook and in course materials; (ii) allow a learner to
-    demonstrate an understanding of facts and ideas by translating,
-    interpreting, and stating the main technical ideas presented through the
-    textbook and course materials; (iii) further equip a
-    learner to solve new problems in the field of computer science by applying
-    &mdash; in a new way &mdash; their knowledge of the facts and techniques related to
-    data structures and rigorous Python programming.
+Students can have seven absences without any impact to their grade. These accommodations are meant to cover illness and emergency, so you should always come to class if you are able to do so.
 
--   **Engineering Labs**: Graded on a percentage basis.
-    Engineering Labs invite students to explore
-    different techniques for rigorously designing, implementing, evaluating, and
-    documenting real-world Python programs. These assignments also encourage
-    students to use tools like a terminal window and a modern
-    Python development environment to implement functions that strike the right
-    balance between understandability, generalizability, and specialization.
-    Students will also use the data collected from running experiments to
-    evaluate the implementation of a Python function as they consider trade-offs
-    between, for instance, its efficiency, flexibility, and correctness.
+### _Engagement_
 
-### Assignment Evaluation
+The term “engagement” or our expectation that students remain “engaged” can mean many things, often varying by course. Baseline behaviors that indicate engagement include:
+
+- participation in class activities and discussions
+- defined contribution to class sessions in full-class or group discussions
+- note-taking (physical or digital)
+- participating in course session attendance requirements
+- not participating in non-course related activities
+- not completing non-course related projects
+
+---
+
+## Assignment Policies
+
+### _Assignment Submission_
+
+All graded components of the course are expected to be turned in on time.
+
+Due dates will be stated in the
+[Course Materials Schedule](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/Schedule.md)
+and Discord. Electronic versions of the Engineering and Specification Labs
+must be submitted to through a student's GitHub repository created by GitHub
+Classroom. No credit will be awarded for any course work that you submit to the
+incorrect GitHub repository.
+
+### _Assignment Evaluation_
 
 You will privately receive a grade for each assignment in Canvas. Your grade will be a function of whether or not you completed the work that correctly fulfills the assignment's specification and submitted it by the deadline.
 
 **Engineering Labs** are graded, i.e. assigned a number or percentage
 indicative of the proportion of points earned relative to the total possible.
-Fifty percent of the grade of each Engineering Lab is determined by
-the percentage of gatorgrade checks passed. One quarter of the grade is determined by code correctness following a rubric. One quarter of the grade is determined by professional
-presentation following a rubric. Professional presentation is impacted by linting,
-formatting, testing, profiling, duplication avoidance and commenting.
+
+- Fifty percent of the grade of each Engineering Lab is determined by
+  the percentage of gatorgrade checks passed.
+- One quarter of the grade is determined by code correctness following a rubric.
+- One quarter of the grade is determined by professional skills and presentation
+  following a rubric. Professional presentation is impacted by linting, formatting, testing, profiling, duplication avoidance and commenting.
 
 **Spec Labs** are pass/fail. A full mark is earned by
 passing **100%** of the gatorgrade checks on the assignment. All
 other gatorgrade scores will earn 0 points.
 
-### Assignment Submission
+---
 
-All assignments will have a stated due date stated in the
-Course Materials Schedule, GitHub
-Classroom, and Discord. Electronic versions of the Engineering and Project Labs
-must be submitted to the
-instructor through a student's GitHub repository created by GitHub Classroom. No
-credit will be awarded for any course work that you submit to the incorrect
-GitHub repository.
+## Late Work Policy
 
-### Late Work Policy
+The deadlines for assignments are hard deadlines. This policy is intended to ensure that students keep up with course topics, are able to actively participate in class, and are accountable for managing time effectively.
 
-The deadlines for assignments are hard deadlines.
+All students in the CIS department are expected to turn in assignments on time. “On time” means on or before the assignment’s due date. This means that an assignment cannot be turned in for credit after a due date, unless the student applies a token. 
 
-This policy is intended to ensure that students keep up with course topics, are able to actively participate in class, and are accountable for managing time effectively. Some assignments will be dropped automatically without penalty. Students may use this policy if they are unable to turn in work due to non-extenuating circumstances.
+### _Tokens_
 
-### Course Attendance
+Students in 101 are allotted four tokens to receive extensions on any assignments, quizzes, and tests, with no questions asked by the course instructor except either in the rare cases of documented severe and/or extenuating circumstances or in cases that violate the CIS policy document or any College-approved policy.
 
-It is mandatory for all students to attend the course sessions. If, due to
-extenuating circumstances, you will not be able to attend a session, then,
-whenever possible, please communicate with the instructor at least one week in
-advance to describe your situation. Students who have any signs of illness
-should not attend any in-person course sessions.
+Tokens must be applied via a Google Form at least 24 hours before the assignment deadline, with exceptions granted only for severe and/or extenuating circumstances.
 
-### Class Preparation
+Tokens grant an automatic extension of one week to anything except the final exam.
 
-In order to maximize learning, students must invest time
-to prepare for the class discussions, laboratory, and programming sessions.
-During the class periods, the course instructor will often pose challenging
-questions that could require group discussion, the creation of a Python program, a vote on a thought-provoking issue, or an in-class
-presentation. Students should prepare by reading the
-assigned material and reviewing the current course projects to effectively participate in these class discussions.
+## Extenuating Circumstances
 
-During the class sessions students will also be required to download, use,
-and modify Python software components and data sets that are made available through
-means such as the Proactive Programmers web site or a GitHub repository.
+Extenuating circumstances are exceptional, unforeseen, outside of your control, and
+short-term, like illness and emergency. Regular circumstances associated with taking courses at Allegheny College are not considered extenuating.
 
-### Using GitHub and Discord
+The accommodations provided by tokens and permitted absences are meant to cover extenuating circumstances like illness, emergency, and work. However, if you have a contagious illness like COVID-19, the flu, or a cold, you should **not** come to class. If you have expended all your absences and tokens and are still sick with a contagious illness, you may contact your professor about options.  If your symptoms are mild or you are recovering from a respiratory illness, we recommend that you wear a mask to class.
 
-This course will primarily use GitHub and Discord for all course communication.
-We will use GitHub for managing and viewing source code, and for reporting
-issues in those materials. The
-[Allegheny College Computer and Information Science Discord
-Server](https://discord.gg/CS2h9kXzX6) will be the main forum for announcements
-and technical discussions about Data Structures and departmental activities
+Professor must be informed of all athletic obligations at the beginning of the semester, or with as much notice as possible. If you are feeling healthy and well, you should make every effort to come to class on time and to complete assignments, rather than using absences and tokens you may need later.
+
+These no-questions-asked accommodations are meant to protect student privacy, and to remove the additional effort of acquiring documentation under duress of illness or emergency. In addition, they allow the professor to remain focused on teaching rather than adjudicating excuses.
+
+If extenuating circumstances are severe enough to require more absences and tokens, you may contact your professor to discuss options. In most cases, however, a situation of this gravity warrants a request for a “Late Drop” or  “Incomplete” in the course, as the student will not have had adequate opportunity to learn the material.
+
+---
+
+## Communications
+
+### _Using GitHub and Discord_
+
+This course will primarily use GitHub and Discord for collaborative course communication. Communications that are not private matters must take place
+in the Data Structures Channel in Discord.
+
+The Allegheny College Computer and Information Science Discord
+Server will also have useful announcements about departmental activities
 including TL office hours.
 
-### Using Email
+### _Using Email_
 
 Although we will primarily use Discord for class communication, the course
 instructor will sometimes use email to send announcements about important
 matters such as changes in the schedule. It is your responsibility to check your
 email at least once a day and to ensure that you can reliably send and receive
-emails. This class policy is based on the statement about the use of email that
-appears in *The Compass*, the College's student handbook; please see the
-instructor if you do not have this handbook.
+emails.
 
-### Honor Code
+---
+
+## Honor Code
 
 The Academic Honor Program that governs the entire academic program at
 Allegheny College is described in the Allegheny Academic Bulletin. The Honor
@@ -276,7 +303,7 @@ Honor Code pledge:
 > defined in the Honor Code, and to maintain the integrity of both
 > myself and the College community as a whole.
 
-### Effective Collaboration
+### _Effective Collaboration_
 
 Computer science is an inherently collaborative discipline. People must work
 together to produce large, complex, and ultimately useful software systems.
@@ -319,6 +346,10 @@ instructor or a technical leader. If a student submits deliverables (e.g.,
 source code or technical writing) that are nearly identical to the work of
 others, this will be taken as evidence of violating the Honor Code.
 
+### Plagiarism and Artificial Intelligence
+
+Plagiarism and AI-generatated code or text are not permitted in an assignment type unless the instructions supplied for the work explicitly state otherwise. Suspected plagiarized or unauthorized use of AI to generate the work turned in will be reported to the Honor Code Committee.
+
 ### Seeking Assistance
 
 Students who are struggling to understand the knowledge and skills developed in
@@ -355,3 +386,8 @@ Accessibility and Support Services (SASS) at 814-332-2898. Student Accessibility
 and Support Services is part of the Learning Commons
 and is located in Pelletier Library. Please do this as soon as possible to
 ensure that approved accommodations are implemented in a timely fashion.
+
+## Syllabus Changes
+
+The instructor may make updates or changes to this document at any time as needed
+until term grades are due. Changes will be announced to the class.
