@@ -1,7 +1,6 @@
 # local
 .venv/
-.Warmups
-.Notes
+.notes
 .Schedule.md
 .README.md
 CMPSC101-Syllabus.pdf
