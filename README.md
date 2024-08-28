@@ -91,7 +91,7 @@ To order through the [virtual campus bookstore](https://bncvirtual.com/allegheny
 
 ### Online Resources and Course Materials
 
-- [Syllabus](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials)
+- [Syllabus](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/README.md)
 - [Schedule](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/Schedule.md)
 - [Course GitHub Organization](https://github.com/allegheny-college-cmpsc-101-fall-2024)
 - [Guttag Textbook Previews](https://books.google.com/books?id=f57uDwAAQBAJ&source=gbs_book_other_versions)
@@ -132,7 +132,7 @@ The components described above will be weighted as shown in the table below.
 | Final Examination    |1        |18%       |18%               |
 | Specification Labs   |8        |2%        |16%               |
 | Engineering Labs     |8        |4%        |32%               |
-| Lab Reflections      |16       |1%        |16%               |
+| Lab Walk-Through      |16       |1%        |16%               |
 
 ---
 
@@ -150,9 +150,9 @@ The components described above will be weighted as shown in the table below.
         - Numerical Computation
         - Function Scope
 - **Week Six**: September 30 to October 4: Structured Types
-- **Week Seven**: October 7 to October 9: Program Components
+- **Week Seven**: October 7 to October 9: Recursion
 - **Fall Break - October 10 to October 11****
-- **Week Eight**: October 14 to October 18: Software Testing
+- **Week Eight**: October 14 to October 18: Debugging and Exceptions
 - **Week Nine**: October 21 to October 25: Object-Oriented Programming
 - **Week Ten**: October 28 to November 1: Proactive Review
 - **Executable Examination Two**: November 1 during the laboratory session
@@ -230,7 +230,7 @@ indicative of the proportion of points earned relative to the total possible.
   the percentage of gatorgrade checks passed.
 - One quarter of the grade is determined by code correctness following a rubric.
 - One quarter of the grade is determined by professional skills and presentation
-  following a rubric. Professional presentation is impacted by linting, formatting, testing, profiling, duplication avoidance and commenting.
+  following a rubric. Professional presentation is impacted by linting, formatting, testing, profiling, duplication avoidance, commenting, markdown styling and communication in reflections.
 
 **Spec Labs** are pass/fail. A full mark is earned by
 passing **100%** of the gatorgrade checks on the assignment. All
@@ -305,9 +305,8 @@ Honor Code pledge:
 
 ### _Effective Collaboration_
 
-Computer science is an inherently collaborative discipline. People must work
-together to produce large, complex, and ultimately useful software systems.
-Because of this, the Department of Computer and Information Science at Allegheny College
+Computer science is an inherently collaborative discipline. The Department of
+Computer and Information Science at Allegheny College
 encourages students to engage in collaboration. However, in the context of
 individual coursework, through which each student must demonstrate their own
 knowledge, there are certain forms of collaboration that are and are not
@@ -318,9 +317,8 @@ acceptable.
       or the various methods that can add elements to a `list`.
     - Referring someone to a course text book, course slides, example programs,
       or other resources that contain helpful information or instructions.
-    - Outlining the high-level steps to solving a problem or implementing a
-      feature, without mentioning specific lines of code that need to be
-      written.
+    - Outlining the high-level steps to solving a problem, without mentioning specific
+    - lines of code that need to be written.
 
 - Unacceptable forms of collaboration include:
     - Sharing details about specific lines of code, including showing your
@@ -330,51 +328,20 @@ acceptable.
     - Typing source code, technical writing, or commands on someone else’s
       computer.
 
-The aforementioned forms of communication are unacceptable because they make it
-difficult for both the course instructor and a learner to assess individual
-knowledge. Moreover, these unacceptable forms of collaboration can impede your
-learning or someone else's learning since an individual is less likely to
-understand source code or technical writing that they do not create
-themselves. Any student who participates in these unacceptable forms of
-collaboration, whether they are the one sharing, showing, looking, copying, or
-typing, are in violation of Allegheny College's Honor Code.
-
-In summary, students should collaborate as long as they do so in acceptable
-ways. If a student needs assistance beyond what can be gained through
-acceptable forms of collaboration, they should seek help from the course
-instructor or a technical leader. If a student submits deliverables (e.g.,
-source code or technical writing) that are nearly identical to the work of
-others, this will be taken as evidence of violating the Honor Code.
-
 ### Plagiarism and Artificial Intelligence
 
-Plagiarism and AI-generatated code or text are not permitted in an assignment type unless the instructions supplied for the work explicitly state otherwise. Suspected plagiarized or unauthorized use of AI to generate the work turned in will be reported to the Honor Code Committee.
+Students may not pass off or represent the work of another student, or their own prior work, as their own
+current work in any case. Plagiarism and AI-generatated code or text are not permitted in any assignment
+type unless the instructions supplied for the assignment explicitly state otherwise.For exams and all other
+coursework, students are expected to adhere to the given instructions for the particular exam or item of
+coursework. It is the responsibility of the student to review the authorization specifications on every item
+and act appropriately, upholding the honor code. Suspected plagiarized or unauthorized use of AI to generate
+the work that is turned in will be reported to the Honor Code Committee. This policy does not preclude the
+use of AI to learn.
 
-### Seeking Assistance
+---
 
-Students who are struggling to understand the knowledge and skills developed in
-either a class, laboratory, or programming session are encouraged to seek
-assistance from the course instructor and the student technical leaders.
-Students should, within the bounds of the Honor Code, ask and answer questions
-on the #data-structures Discord channel. The Discord channel is preferred to make
-learning and teaching collaborative. Students can find out the
-office hour schedule for student TLs in the
-[CIS Discord Server](https://discord.gg/CS2h9kXzX6) under #tl-office-hours, or
-book appointments for office hours with the instructor.
-
-For exams and all other coursework, students are expected 
-to adhere to the given instructions specifying what is or is not considered authorized 
-assistance for the particular exam or item of coursework. It is the responsibility of the student to 
-review the authorization specifications on every item and act appropriately, 
-upholding the honor code.  Unauthorized assistance may or may not preclude 1. internet use, 
-including but not limited to online large language models (e.g. ChatGTP); 2. offline artificial intelligence 
-tools; 3. textbooks; 4. other specifically named materials or sources. Students are 
-reminded to review Honor Code Article III Section 1, requiring students who know that 
-an honor code violation has occurred to report the violation. Moreover, "Failure to do 
-so is as injurious to the honor of the College community as is the observed act of 
-dishonesty and constitutes an infraction of the Honor Code."
-
-### Educational Accommodations
+## Educational Accommodations
 
 The Americans with Disabilities Act (ADA) is a federal anti-discrimination
 statute that provides comprehensive civil rights protection for persons with
@@ -386,6 +353,8 @@ Accessibility and Support Services (SASS) at 814-332-2898. Student Accessibility
 and Support Services is part of the Learning Commons
 and is located in Pelletier Library. Please do this as soon as possible to
 ensure that approved accommodations are implemented in a timely fashion.
+
+---
 
 ## Syllabus Changes
 
