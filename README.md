@@ -125,14 +125,14 @@ There are five main components that contribute to the grade in this course.
 
 The components described above will be weighted as shown in the table below.
 
-| Category             | Repeats |Unit Value| Total Percentage |
-|----------------------|---------|----------|------------------|
-| Attendance (7 free)  |50       |0.12%      |6%                |
-| Midterm Examinations |2        |6%        |12%               |
-| Final Examination    |1        |18%       |18%               |
-| Specification Labs   |8        |2%        |16%               |
-| Engineering Labs     |8        |4%        |32%               |
-| Lab Walk-Through      |16       |1%        |16%               |
+| Category             | Repeats |Unit Points | Total Points| Total Percentage |
+|----------------------|---------|------------|-------------|------------------|
+| Attendance (7 free)  |50       |1.2         |60           |6%                |
+| Midterm Examinations |2        |60          |120          |12%               |
+| Final Examination    |1        |180         |180          |18%               |
+| Specification Labs   |8        |20          |160          |16%               |
+| Engineering Labs     |8        |40          |320          |32%               |
+| Lab Walk-Through     |16       |10          |160          |16%               |
 
 ---
 
@@ -162,10 +162,11 @@ The components described above will be weighted as shown in the table below.
         - Software Testing
         - Object-Oriented Programming
 - **Week Eleven**: November 4 to November 8: Algorithmic Complexity
-- **Week Twelve**: November 18 to November 22: Data Structures
-- **Week Thirteen**: November 25: Data Structures/Optimization Problems
+- **Week Twelve**: November 11 to November 15: Data Structures
+- **Week Thirteen**: November 18 to November 22: Data Structures/Optimization Problems
+- **Week Fourteen**: November 25: Optimization Problems
 - **Thanksgiving Break - November 27 to November 29**
-- **Week Fourteen**: December 2 to December 6: Optimization Problems
+- **Week Fifteen**: December 2 to December 6: Proactive Review
 - **Final Examination**: *Examination Code*: G, *Date*: Wednesday, December 11, 2024 at 09:00 AM. [Complete Final Exam Schedule](https://sites.allegheny.edu/registrar/fall-2024-final-exam-schedule/)
     - Comprehensively covers all course modules
 

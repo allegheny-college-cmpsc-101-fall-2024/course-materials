@@ -44,6 +44,8 @@
 
 ## Week 14 - Optimization Problems
 
+## Week 15 - Review
+
 ## Final
 
 **Final Examination**: *Examination Code*: G, *Date*: Wednesday, December 11, 2024 at 09:00 AM. [Complete Final Exam Schedule](https://sites.allegheny.edu/registrar/fall-2024-final-exam-schedule/)
