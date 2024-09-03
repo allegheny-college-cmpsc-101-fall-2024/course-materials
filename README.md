@@ -12,8 +12,6 @@
 
 ### Instructor Office Hours
 
-TBD
-
 To meet with the course instructor during office hours, please visit the
 [Google Calendar for Office Hours](https://calendar.app.google/MYV4AVsQG2fUM9Ja7)
 to reserve an appointment(s) as needed. If there are no suitable
@@ -252,6 +250,8 @@ Students in 101 are allotted four tokens to receive extensions on any assignment
 Tokens must be applied via a Google Form at least 24 hours before the assignment deadline, with exceptions granted only for severe and/or extenuating circumstances.
 
 Tokens grant an automatic extension of one week to anything except the final exam.
+
+[Token Form for Automatic Extension](https://forms.gle/y9Mz55hQKr84wzvXA)
 
 ## Extenuating Circumstances
 
