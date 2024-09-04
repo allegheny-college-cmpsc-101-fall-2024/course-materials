@@ -12,7 +12,7 @@
 
 | Date  | Links to in-class materials | Links to new assignments | Due Before Class Today        |
 |-------|-----------------------------|--------------------------|------------------|
-|W Sept 4|||[Reading: Guttag Chapters 1 + 2](https://mitpress.ublish.com/ebook/itcapup3-preview/12609/xv)|
+|W Sept 4|[Slides: Demo Assignment](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/notes/20240904-first-assignment.pdf)|[Repo: 1 Spec. Number Comparison](https://classroom.github.com/a/quO59oCT) due 10am, W Sept 11|[Reading: Guttag Chapters 1 + 2](https://mitpress.ublish.com/ebook/itcapup3-preview/12609/xv)|
 |Th Sept 5||||
 |F Sept 6||||
 
