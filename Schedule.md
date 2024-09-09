@@ -20,7 +20,7 @@
 
 | Date  | Links to in-class materials | Links to new assignments | Due Before Class Today        |
 |-------|-----------------------------|--------------------------|------------------|
-|M Sept 9|||[Reading: Guttag Chapter 3](https://www.google.com/books/edition/Introduction_to_Computation_and_Programm/f57uDwAAQBAJ?hl=en&gbpv=1)|
+|M Sept 9|[Code: Foundations Part 3](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/code/20240906_python_foundations_part3.ipynb) ||[Reading: Guttag Chapter 3](https://www.google.com/books/edition/Introduction_to_Computation_and_Programm/f57uDwAAQBAJ?hl=en&gbpv=1)|
 |W Sept 11||Lab: 2 Spec. Numerical Data due 10AM, W Sept 18|[Lab: 1 Spec. Number Comparison](https://classroom.github.com/a/quO59oCT) due 10AM|
 |Th Sept 12||Lab: 1 Engr. Integer Squaring due 2:30PM, Th Sept 19||
 |F Sept 13|||[Reading: Guttag Chapter 4](https://www.google.com/books/edition/Introduction_to_Computation_and_Programm/f57uDwAAQBAJ?hl=en&gbpv=1) due 10AM, M Sept 16|
