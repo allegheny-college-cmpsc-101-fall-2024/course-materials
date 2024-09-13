@@ -22,10 +22,17 @@
 |-------|-----------------------------|--------------------------|------------------|
 |M Sept 9|[Code: Foundations Part 3](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/code/20240909_python_foundations_part3.ipynb) ||[Reading: Guttag Chapter 3](https://www.google.com/books/edition/Introduction_to_Computation_and_Programm/f57uDwAAQBAJ?hl=en&gbpv=1)|
 |W Sept 11||[Lab: 2 Spec. CLI vs Script vs Notebook](https://classroom.github.com/a/Pd1RnP-N) due 10AM, W Sept 18|[Lab: 1 Spec. Number Comparison](https://classroom.github.com/a/quO59oCT) due 10AM|
-|Th Sept 12||Lab: 1 Engr. Integer Squaring due 2:30PM, Th Sept 19||
-|F Sept 13|||[Reading: Guttag Chapter 4](https://www.google.com/books/edition/Introduction_to_Computation_and_Programm/f57uDwAAQBAJ?hl=en&gbpv=1) due 10AM, M Sept 16|
+|Th Sept 12||||
+|F Sept 13|[Code: Foundations Part 4](https://colab.research.google.com/github/ProactiveProgrammers/www.proactiveprogrammers.com/blob/master/files/data-abstraction/python-foundations/compute-integer-square.ipynb)|[Lab: 1 Engr. Integer Squaring](https://classroom.github.com/a/fTuXN4ps) due 10AM, F Sept 20 <br> [Reading: Guttag Chapter 4](https://www.google.com/books/edition/Introduction_to_Computation_and_Programm/f57uDwAAQBAJ?hl=en&gbpv=1) due 10AM, M Sept 16 ||
 
 ## Week 4 - Function Scope
+
+| Date  | Links to in-class materials | Links to new assignments | Due Before Class Today        |
+|-------|-----------------------------|--------------------------|------------------|
+|M Sept 16|||[Reading: Guttag Chapter 4](https://www.google.com/books/edition/Introduction_to_Computation_and_Programm/f57uDwAAQBAJ?hl=en&gbpv=1) due 10AM|
+|W Sept 18||||
+|Th Sept 19||||
+|F Sept 20||||
 
 ## Week 5 - Review
 
