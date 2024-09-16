@@ -29,7 +29,7 @@
 
 | Date  | Links to in-class materials | Links to new assignments | Due Before Class Today        |
 |-------|-----------------------------|--------------------------|------------------|
-|M Sept 16|||[Reading: Guttag Chapter 4](https://www.google.com/books/edition/Introduction_to_Computation_and_Programm/f57uDwAAQBAJ?hl=en&gbpv=1) due 10AM|
+|M Sept 16|[Slides: Numerical Computation](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/slides/20240916-numerical-computation.pdf) <br> [Code: Numerical Computation](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/code/20240916_numerical_computation.ipynb)||[Reading: Guttag Chapter 4](https://www.google.com/books/edition/Introduction_to_Computation_and_Programm/f57uDwAAQBAJ?hl=en&gbpv=1) due 10AM|
 |W Sept 18||||
 |Th Sept 19||||
 |F Sept 20||||
