@@ -138,17 +138,17 @@ The components described above will be weighted as shown in the table below.
 
 - **Week One**: August 28 to August 30: [Software Operations](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/Schedule.md#week-1---software-operations)
 - **Week Two**: September 4 to September 6: [Python Foundations](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/Schedule.md#week-2---python-foundations)
-- **Week Three**: September 9 to September 13: [Numerical Computation](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/Schedule.md#week-3---numerical-computation)
-- **Week Four**: September 16 to September 20: [Function Scope](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/Schedule.md#week-4---function-scope)
-- **Week Five**: September 23 to September 27: Proactive Review
-- **Executable Examination One**: September 27 during the class session
+- **Week Three**: September 9 to September 13: [Python Foundations 2](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/Schedule.md#week-3---python-foundations)
+- **Week Four**: September 16 to September 20: [Numerical Computation](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/Schedule.md#week-4---numerical-computation)
+- **Week Five**: September 23 to September 27: [Function Scope](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/Schedule.md#week-4---function-scope)
+- **Week Six**: September 30 to October 4: Proactive Review
+- **Executable Examination One**: October 4 during the class session
     - Relevant Modules:
         - Software Operation
         - Python Foundations
         - Numerical Computation
-        - Function Scope
-- **Week Six**: September 30 to October 4: Structured Types
-- **Week Seven**: October 7 to October 9: Recursion
+        - Function ScopeStructured Types
+- **Week Seven**: October 7 to October 9: Structured Types and Recursion
 - **Fall Break - October 10 to October 11****
 - **Week Eight**: October 14 to October 18: Debugging and Exceptions
 - **Week Nine**: October 21 to October 25: Object-Oriented Programming

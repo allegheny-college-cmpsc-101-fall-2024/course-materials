@@ -16,7 +16,7 @@
 |Th Sept 5||no new lab||
 |F Sept 6|[Code: Foundations Cont.](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/code/20240906_python_foundations_cont.ipynb)|[Reading: Guttag Chapter 3](https://www.google.com/books/edition/Introduction_to_Computation_and_Programm/f57uDwAAQBAJ?hl=en&gbpv=1) due 10AM, M Sept 9||
 
-## Week 3 - Numerical Computation
+## Week 3 - Python Foundations
 
 | Date  | Links to in-class materials | Links to new assignments | Due Before Class Today        |
 |-------|-----------------------------|--------------------------|------------------|
@@ -25,7 +25,7 @@
 |Th Sept 12||||
 |F Sept 13|[Code: Foundations Part 4](https://colab.research.google.com/github/ProactiveProgrammers/www.proactiveprogrammers.com/blob/master/files/data-abstraction/python-foundations/compute-integer-square.ipynb)|[Lab: 1 Engr. Integer Squaring](https://classroom.github.com/a/fTuXN4ps) due 10AM, F Sept 20 <br> [Reading: Guttag Chapter 4](https://www.google.com/books/edition/Introduction_to_Computation_and_Programm/f57uDwAAQBAJ?hl=en&gbpv=1) due 10AM, M Sept 16 ||
 
-## Week 4 - Function Scope
+## Week 4 - Numerical Computation
 
 | Date  | Links to in-class materials | Links to new assignments | Due Before Class Today        |
 |-------|-----------------------------|--------------------------|------------------|
@@ -34,13 +34,13 @@
 |Th Sept 19||[Lab: 3 Spec. Square Roots](https://classroom.github.com/a/bOcLfHEe) due 2:30PM, Th Sept 26||
 |F Sept 20|||[Lab: 1 Engr. Integer Squaring](https://classroom.github.com/a/fTuXN4ps) due 10AM|
 
-## Week 5 - Review
+## Week 5 - Function Scope
+
+## Week 6 - Review
 
 # Unit 2
 
-## Week 6 - Structured Types
-
-## Week 7 - Recursion
+## Week 7 - Structured Types and Recursion
 
 ## Week 8 - Debugging and Exceptions
 
