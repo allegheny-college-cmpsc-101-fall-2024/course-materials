@@ -30,7 +30,7 @@
 | Date  | Links to in-class materials | Links to new assignments | Due Before Class Today        |
 |-------|-----------------------------|--------------------------|------------------|
 |M Sept 16|[Slides: Numerical Computation](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/slides/20240916-numerical-computation.pdf) <br> [Code: Numerical Computation](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/code/20240916_numerical_computation.ipynb)||[Reading: Guttag Chapter 4](https://www.google.com/books/edition/Introduction_to_Computation_and_Programm/f57uDwAAQBAJ?hl=en&gbpv=1) due 10AM|
-|W Sept 18|||[Lab: 2 Spec. CLI vs Script vs Notebook](https://classroom.github.com/a/Pd1RnP-N) due 10AM|
+|W Sept 18|[Code: Square Roots](https://colab.research.google.com/github/ProactiveProgrammers/www.proactiveprogrammers.com/blob/master/files/data-abstraction/numerical-computation/calculate-approximate-square-root.ipynb)|[Lab: 3 Spec. Square Roots](https://classroom.github.com/a/bOcLfHEe) due 2:30PM, Th Sept 26|[Lab: 2 Spec. CLI vs Script vs Notebook](https://classroom.github.com/a/Pd1RnP-N) due 10AM|
 |Th Sept 19||[Lab: 3 Spec. Square Roots](https://classroom.github.com/a/bOcLfHEe) due 2:30PM, Th Sept 26||
 |F Sept 20|||[Lab: 1 Engr. Integer Squaring](https://classroom.github.com/a/fTuXN4ps) due 10AM|
 
