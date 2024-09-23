@@ -36,6 +36,14 @@
 
 ## Week 5 - Function Scope
 
+| Date  | Links to in-class materials | Links to new assignments | Due Before Class Today        |
+|-------|-----------------------------|--------------------------|------------------|
+|M Sept 23|[Slides: Function Scope](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/slides/20240923-function-scope.pdf) <br> [Code: Function Scope](https://githubtocolab.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/code/20240923_function_scope.ipynb)|||
+|W Sept 25| NO CLASS|||
+|Th Sept 26||[Lab: 2 Engr. Prime Testing]|[Lab: 3 Spec. Square Roots](https://classroom.github.com/a/bOcLfHEe) due at 2:30PM|
+|F Sept 27||||
+
+
 ## Week 6 - Review
 
 # Unit 2
