@@ -147,7 +147,7 @@ The components described above will be weighted as shown in the table below.
         - Software Operation
         - Python Foundations
         - Numerical Computation
-        - Function ScopeStructured Types
+        - Function Scope
 - **Week Seven**: October 7 to October 9: Structured Types and Recursion
 - **Fall Break - October 10 to October 11****
 - **Week Eight**: October 14 to October 18: Debugging and Exceptions
@@ -188,7 +188,7 @@ Coming to class prepared means coming with everything you need to engage in a cl
 
 ### _Attendance and Lateness_
 
-One missed class or lab session counts as one absence. Coming to class/lab late, leaving early, or missing a large portion of a class/lab session will result in your being marked as “late” to class. Coming to class/lab unprepared may also result in being marked “late”. Being marked “late” to class three times during the course of a semester is equal to one absence.
+One missed class or lab session counts as one absence. Coming to class/lab late, leaving early, or missing a large portion of a class/lab session will result in your being marked as “late” to class. Coming to class/lab unprepared may also result in being marked “late”. Being marked “late” to class three times during the course of a semester is equal to one absence. An entrance ticket must be answered in the first 10 minutes of class, otherwise a "late" is marked.
 
 Students can have seven absences without any impact to their grade. These accommodations are meant to cover illness and emergency, so you should always come to class if you are able to do so.
 
@@ -241,7 +241,7 @@ other gatorgrade scores will earn 0 points.
 
 The deadlines for assignments are hard deadlines. This policy is intended to ensure that students keep up with course topics, are able to actively participate in class, and are accountable for managing time effectively.
 
-All students in the CIS department are expected to turn in assignments on time. “On time” means on or before the assignment’s due date. This means that an assignment cannot be turned in for credit after a due date, unless the student applies a token. 
+All students in the CIS department are expected to turn in assignments on time. “On time” means on or before the assignment’s due date. This means that an assignment cannot be turned in for credit after a due date, unless the student applies a token.
 
 ### _Tokens_
 
