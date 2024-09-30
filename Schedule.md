@@ -49,7 +49,7 @@
 |-------|-----------------------------|--------------------------|------------------|
 |M Sept 30|[Optional Repo: Exam one review](https://classroom.github.com/a/ILmYIESP) <br> [Survey: CIS Courses](https://forms.gle/jzhizyqtf7fg6jSHA)|||
 |W Oct 2||||
-|Th Oct 3|||Lab: 2 Engr. Prime Testing](https://classroom.github.com/a/B-ONXJRh) due at 2:30pm|
+|Th Oct 3|||[Lab: 2 Engr. Prime Testing](https://classroom.github.com/a/B-ONXJRh) due at 2:30pm|
 |F Oct 4|EXAM ONE|||
 
 # Unit 2
