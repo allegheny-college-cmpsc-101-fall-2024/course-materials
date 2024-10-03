@@ -253,6 +253,8 @@ Tokens grant an automatic extension of one week to anything except the final exa
 
 [Token Form for Automatic Extension](https://forms.gle/y9Mz55hQKr84wzvXA)
 
+There is also __one__ retroactive token that can be used to turn in any past lab that you would like to redo for any reason. Please fill out this form to notify the instructor when and which lab you would like to apply this special retroactive token to: [One Retroactive Token Form](https://forms.gle/ykTZGVawJ3a6AXRr6)
+
 ## Extenuating Circumstances
 
 Extenuating circumstances are exceptional, unforeseen, outside of your control, and
