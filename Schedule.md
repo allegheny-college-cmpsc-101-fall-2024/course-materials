@@ -47,9 +47,9 @@
 
 | Date  | Links to in-class materials | Links to new assignments | Due Before Class Today        |
 |-------|-----------------------------|--------------------------|------------------|
-|M Sept 30|[Optional Repo: Exam one review](https://classroom.github.com/a/ILmYIESP) <br> [Survey: CIS Courses](https://forms.gle/jzhizyqtf7fg6jSHA)|||
+|M Sept 30|[Optional Repo: Exam one review](https://classroom.github.com/a/ILmYIESP)|||
 |W Oct 2||||
-|Th Oct 3|||[Lab: 2 Engr. Prime Testing](https://classroom.github.com/a/B-ONXJRh) due at 2:30pm|
+|Th Oct 3|[Survey: CIS Courses](https://forms.gle/1FXoH15KtbeqZ4Xc8)||[Lab: 2 Engr. Prime Testing](https://classroom.github.com/a/B-ONXJRh) due at 2:30pm|
 |F Oct 4|EXAM ONE|||
 
 # Unit 2
