@@ -56,6 +56,11 @@
 
 ## Week 7 - Structured Types and Recursion
 
+| Date  | Links to in-class materials | Links to new assignments | Due Before Class Today        |
+|-------|-----------------------------|--------------------------|------------------|
+|M Oct 7|[Slides: Structured Types 1](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/slides/20241007-structured-types.pdf) <br> [Code: Tuples + Intersection](https://githubtocolab.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/code/20241007_structured_types_tuples.ipynb) <br> [Code: Lists + Apply to Each](https://githubtocolab.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/code/20241007_structured_types_lists.ipynb) <br> [Code: Strings + Slicing](https://githubtocolab.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/code/20241007_strings_and_slicing.ipynb)|Guttag Chapter 5||
+|W Oct 9||[Spec. 4 Structured Types] <br> [Engr. 3 Intersection Algorithms]||
+
 ## Week 8 - Debugging and Exceptions
 
 ## Week 9 - Classes and Object-Oriented Programming
