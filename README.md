@@ -148,9 +148,9 @@ The components described above will be weighted as shown in the table below.
         - Python Foundations
         - Numerical Computation
         - Function Scope
-- **Week Seven**: October 7 to October 9: Structured Types and Recursion
+- **Week Seven**: October 7 to October 9: Structured Types
 - **Fall Break - October 10 to October 11****
-- **Week Eight**: October 14 to October 18: Debugging and Exceptions
+- **Week Eight**: October 14 to October 18: Recursion and Testing
 - **Week Nine**: October 21 to October 25: Object-Oriented Programming
 - **Week Ten**: October 28 to November 1: Proactive Review
 - **Executable Examination Two**: November 1 during the laboratory session
