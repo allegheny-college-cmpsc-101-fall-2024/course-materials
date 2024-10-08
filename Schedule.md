@@ -59,15 +59,15 @@
 | Date  | Links to in-class materials | Links to new assignments | Due Before Class Today        |
 |-------|-----------------------------|--------------------------|------------------|
 |M Oct 7|[Slides: Structured Types 1](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/slides/20241007-structured-types.pdf)|Guttag Chapter 5||
-|W Oct 9|[Code: Tuples + Intersection](https://githubtocolab.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/code/20241007_structured_types_tuples.ipynb) <br> [Code: Lists + Apply to Each](https://githubtocolab.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/code/20241007_structured_types_lists.ipynb) <br> [Code: Strings + Slicing](https://githubtocolab.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/code/20241007_strings_and_slicing.ipynb)|[Spec. 4 Structured Types](https://classroom.github.com/a/vDb9_W3x) due 10am W Oct 16 <br> [Engr. 3 Intersection Algorithms](https://classroom.github.com/a/frDYiEDb) due 2:30pm Th Oct 17||
+|W Oct 9|[Code: Tuples + Intersection](https://githubtocolab.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/code/20241007_structured_types_tuples.ipynb) <br> [Code: Lists + Apply to Each](https://githubtocolab.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/code/20241007_structured_types_lists.ipynb) <br> [Code: Strings + Slicing](https://githubtocolab.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/code/20241007_strings_and_slicing.ipynb)|[Lab: Spec. 4 Structured Types](https://classroom.github.com/a/vDb9_W3x) due 10am W Oct 16 <br> [Lab: Engr. 3 Intersection Algorithms](https://classroom.github.com/a/frDYiEDb) due 2:30pm Th Oct 17||
 
 ## Week 8 - Recursion and Testing
 
 | Date  | Links to in-class materials | Links to new assignments | Due Before Class Today        |
 |-------|-----------------------------|--------------------------|------------------|
 |M Oct 14||||
-|W Oct 16|||[Spec. 4 Structured Types](https://classroom.github.com/a/vDb9_W3x) due 10am|
-|Th Oct 17|||[Engr. 3 Intersection Algorithms](https://classroom.github.com/a/frDYiEDb) due 2:30pm|
+|W Oct 16|||[Lab: Spec. 4 Structured Types](https://classroom.github.com/a/vDb9_W3x) due 10am|
+|Th Oct 17|||[Lab: Engr. 3 Intersection Algorithms](https://classroom.github.com/a/frDYiEDb) due 2:30pm|
 |F Oct 18||||
 
 ## Week 9 - Classes and Object-Oriented Programming
