@@ -65,14 +65,28 @@
 
 | Date  | Links to in-class materials | Links to new assignments | Due Before Class Today        |
 |-------|-----------------------------|--------------------------|------------------|
-|M Oct 14||||
-|W Oct 16|||[Lab: Spec. 4 Structured Types](https://classroom.github.com/a/vDb9_W3x) due 10am|
-|Th Oct 17|||[Lab: Engr. 3 Intersection Algorithms](https://classroom.github.com/a/frDYiEDb) due 2:30pm|
+|M Oct 14||Guttag Chapter 6|Guttag Chapter 5|
+|W Oct 16||Lab: Spec 5. Cloning due 10am W Oct 23|[Lab: Spec. 4 Structured Types](https://classroom.github.com/a/vDb9_W3x) due 10am|
+|Th Oct 17||Lab: Engr. 4 Palindromes due 2:30pm Th Oct 24|[Lab: Engr. 3 Intersection Algorithms](https://classroom.github.com/a/frDYiEDb) due 2:30pm|
 |F Oct 18||||
 
 ## Week 9 - Recursion and Testing
 
+| Date  | Links to in-class materials | Links to new assignments | Due Before Class Today        |
+|-------|-----------------------------|--------------------------|------------------|
+|M Oct 21||Guttag Chapters 7 + 8|Guttag Chapter 6|
+|W Oct 23||Lab: Spec. 6 Matrix due 10am W Oct 30|Lab: Spec 5. Cloning due 10am W Oct 23|
+|Th Oct 24||Lab Engr. 5 Fibonacci due 2:30pm Th Oct 31|Lab: Engr. 4 Palindromes due 2:30pm Th Oct 24|
+|F Oct 25||||
+
 ## Week 10 - Classes and Object-Oriented Programming
+
+| Date  | Links to in-class materials | Links to new assignments | Due Before Class Today        |
+|-------|-----------------------------|--------------------------|------------------|
+|M Oct 28||Guttag Chapters 9 + 10|Guttag Chapters 7 + 8|
+|W Oct 30||Lab: Spec 7. Debugging Functions due 10am W Nov 6|Lab: Spec. 6 Matrix due 10am W Oct 30|
+|Th Oct 31||Lab: Engr. 6 Object Processing due 2:30pm Th Nov 7|Lab Engr. 5 Fibonacci due 2:30pm Th Oct 31|
+|F Nov 1||||
 
 ## Week 11 - Review
 
