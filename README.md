@@ -150,18 +150,18 @@ The components described above will be weighted as shown in the table below.
         - Function Scope
 - **Week Seven**: October 7 to October 9: Structured Types
 - **Fall Break - October 10 to October 11****
-- **Week Eight**: October 14 to October 18: Recursion and Testing
-- **Week Nine**: October 21 to October 25: Object-Oriented Programming
-- **Week Ten**: October 28 to November 1: Proactive Review
-- **Executable Examination Two**: November 1 during the laboratory session
+- **Week Eight**: October 14 to October 18: Aliasing and Recursion
+- **Week Nine**: October 21 to October 25: Recursion and Testing
+- **Week Ten**: October 28 to November 1: Object-Oriented Programming
+- **Week Eleven**: November 4 to November 8: Review
+- **Executable Examination Two**: November 8 during the class session
     - Relevant Modules:
         - Structured Types
-        - Program Components
+        - Recursion
         - Software Testing
         - Object-Oriented Programming
-- **Week Eleven**: November 4 to November 8: Algorithmic Complexity
-- **Week Twelve**: November 11 to November 15: Data Structures
-- **Week Thirteen**: November 18 to November 22: Data Structures/Optimization Problems
+- **Week Twelve**: November 11 to November 15: Algorithmic Complexity
+- **Week Thirteen**: November 18 to November 22: Data Structures
 - **Week Fourteen**: November 25: Optimization Problems
 - **Thanksgiving Break - November 27 to November 29**
 - **Week Fifteen**: December 2 to December 6: Proactive Review
