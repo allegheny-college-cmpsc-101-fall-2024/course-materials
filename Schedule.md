@@ -66,7 +66,7 @@
 | Date  | Links to in-class materials | Links to new assignments | Due Before Class Today        |
 |-------|-----------------------------|--------------------------|------------------|
 |M Oct 14|[Slides Cloning, Aliasing, List Comprehensions](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/slides/20241014-cloning-aliasing-listcomp.pdf) <br> [Code: Cloning, Aliasing, List Comprehensions](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/code/20241014_cloning_aliasing_listcomp.ipynb)|Guttag Chapter 6|Guttag Chapter 5|
-|W Oct 16||Lab: Spec 5. Cloning due 10am W Oct 23|[Lab: Spec. 4 Structured Types](https://classroom.github.com/a/vDb9_W3x) due 10am|
+|W Oct 16||[Lab: Spec 5. Cloning due 10am W Oct 23](https://classroom.github.com/a/ZnaZlmpk)|[Lab: Spec. 4 Structured Types](https://classroom.github.com/a/vDb9_W3x) due 10am|
 |Th Oct 17||Lab: Engr. 4 Palindromes due 2:30pm Th Oct 24|[Lab: Engr. 3 Intersection Algorithms](https://classroom.github.com/a/frDYiEDb) due 2:30pm|
 |F Oct 18||||
 
