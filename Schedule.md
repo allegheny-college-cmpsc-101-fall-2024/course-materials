@@ -74,7 +74,7 @@
 
 | Date  | Links to in-class materials | Links to new assignments | Due Before Class Today        |
 |-------|-----------------------------|--------------------------|------------------|
-|M Oct 21|[Slides: Fibonacci Algorithms](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/slides/20241021-recursion-fibonacci.pdf) <br> [Code: Fibonacci Algorithms](https://githubtocolab.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/code/20241021_recursion_fibonacci.ipynb) |Guttag Chapters 7 + 8|Guttag Chapter 6|
+|M Oct 21|[Slides: Fibonacci Algorithms](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/slides/20241021-recursion-fibonacci.pdf) <br> [Code: Fibonacci Algorithms](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/code/20241021_recursion_fibonacci.ipynb) |Guttag Chapters 7 + 8|Guttag Chapter 6|
 |W Oct 23||Lab: Spec. 6 Matrix due 10am W Oct 30|[Lab: Spec 5. Cloning](https://classroom.github.com/a/ZnaZlmpk) due 10am W Oct 23|
 |Th Oct 24||Lab Engr. 5 Fibonacci due 2:30pm Th Oct 31|[Lab: Engr. 4 Palindromes](https://classroom.github.com/a/s5j8oIww) due 2:30pm|
 |F Oct 25||||
