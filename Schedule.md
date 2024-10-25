@@ -77,7 +77,7 @@
 |M Oct 21|[Slides: Fibonacci Algorithms](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/slides/20241021-recursion-fibonacci.pdf) <br> [Code: Fibonacci Algorithms](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/code/20241021_recursion_fibonacci.ipynb) |Guttag Chapters 7 + 8|Guttag Chapter 6|
 |W Oct 23|[Slides: Testing + Debugging](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/slides/20241023-testing+debugging.pdf)|[Lab: Spec. 6 Debugging Functions](https://classroom.github.com/a/kYAMC3uP) due 10am W Oct 30|[Lab: Spec 5. Cloning](https://classroom.github.com/a/ZnaZlmpk) due 10am W Oct 23|
 |Th Oct 24||[Lab Engr. 5 Fibonacci](https://classroom.github.com/a/DdbhzN4e) due 2:30pm Th Oct 31|[Lab: Engr. 4 Palindromes](https://classroom.github.com/a/s5j8oIww) due 2:30pm|
-|F Oct 25||||
+|F Oct 25|[Slides: Exception Handling](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/slides/20241025-exception-handling.pdf) <br> [Code: Exception Handling](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/code/20241025_exception_handling.ipynb)|||
 
 ## Week 10 - Classes and Object-Oriented Programming
 
