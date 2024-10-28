@@ -83,7 +83,7 @@
 
 | Date  | Links to in-class materials | Links to new assignments | Due Before Class Today        |
 |-------|-----------------------------|--------------------------|------------------|
-|M Oct 28||Guttag Chapters 9 + 10|Guttag Chapters 7 + 8|
+|M Oct 28|[Slides: Classes](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/slides/20241028-classes.pdf) <br> [Code: Classes](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/code/20241028_classes.ipynb) |Guttag Chapters 9 + 10|Guttag Chapters 7 + 8|
 |W Oct 30||Lab: Spec 7. Matrix due 10am W Nov 6|[Lab: Spec. 6 Debugging Functions](https://classroom.github.com/a/kYAMC3uP) due 10am W Oct 30|
 |Th Oct 31||Lab: Engr. 6 Object Processing due 2:30pm Th Nov 7|[Lab Engr. 5 Fibonacci](https://classroom.github.com/a/DdbhzN4e) due 2:30pm Th Oct 31|
 |F Nov 1||||
