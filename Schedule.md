@@ -86,13 +86,13 @@
 |M Oct 28|[Slides: Classes](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/slides/20241028-classes.pdf) <br> [Code: Classes](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/code/20241028_classes.ipynb) |Guttag Chapters 9 + 10|Guttag Chapters 7 + 8|
 |W Oct 30|[Slides: Object Processing](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/slides/20241030-object-processing.pdf) <br> [Code:Object Processing](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/code/20241030_object_processing.ipynb)||[Lab: Spec. 6 Debugging Functions](https://classroom.github.com/a/kYAMC3uP) due 10am W Oct 30|
 |Th Oct 31||[Lab: Engr. 6 Object Processing](https://classroom.github.com/a/eHs-WRje) due 2:30pm Th Nov 7|[Lab Engr. 5 Fibonacci](https://classroom.github.com/a/DdbhzN4e) due 2:30pm Th Oct 31|
-|F Nov 1||||
+|F Nov 1|[Slides: Inheritance](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/slides/20241101-inheritance.pdf) <br> [Code: Inheritance](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/code/20241101_inheritance.ipynb)|||
 
 ## Week 11 - Review
 
 | Date  | Links to in-class materials | Links to new assignments | Due Before Class Today        |
 |-------|-----------------------------|--------------------------|------------------|
-|M Nov 4||||
+|M Nov 4|||Guttag Chapters 9 + 10|
 |W Nov 6||||
 |Th Nov 7|||[Lab: Engr. 6 Object Processing](https://classroom.github.com/a/eHs-WRje) due 2:30pm|
 |F Nov 8|EXAM 2|||
