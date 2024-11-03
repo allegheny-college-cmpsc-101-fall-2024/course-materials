@@ -92,7 +92,7 @@
 
 | Date  | Links to in-class materials | Links to new assignments | Due Before Class Today        |
 |-------|-----------------------------|--------------------------|------------------|
-|M Nov 4|||Guttag Chapters 9 + 10|
+|M Nov 4|[Optional Repo: Exam two review](https://classroom.github.com/a/NBP_gX3s)||Guttag Chapters 9 + 10|
 |W Nov 6||||
 |Th Nov 7|||[Lab: Engr. 6 Object Processing](https://classroom.github.com/a/eHs-WRje) due 2:30pm|
 |F Nov 8|EXAM 2|||
