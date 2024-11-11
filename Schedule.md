@@ -104,7 +104,7 @@
 | Date  | Links to in-class materials | Links to new assignments | Due Before Class Today        |
 |-------|-----------------------------|--------------------------|------------------|
 |M Nov 11||Guttag Chapters 11 + 12||
-|W Nov 13||[Lab: Spec. 7 Matrix]||
+|W Nov 13||[Lab: Spec. 7 Matrix](https://classroom.github.com/a/duSMcmEb) due W Nov 20 at 10am||
 |Th Nov 14||[Lab: Engr. 7 Containment]||
 |F Nov 15||||
 
@@ -113,7 +113,7 @@
 | Date  | Links to in-class materials | Links to new assignments | Due Before Class Today        |
 |-------|-----------------------------|--------------------------|------------------|
 |M Nov 18||Guttag Chapters 14|Guttag Chapters 11 + 12|
-|W Nov 20|||[Lab: Spec. 7 Matrix]|
+|W Nov 20|||[Lab: Spec. 7 Matrix](https://classroom.github.com/a/duSMcmEb) due 10am|
 |Th Nov 21||[Lab: Engr. 8 Search]|[Lab: Engr. 7 Containment]|
 |F Nov 22||||
 
