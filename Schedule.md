@@ -105,23 +105,23 @@
 |-------|-----------------------------|--------------------------|------------------|
 |M Nov 11|[Slides: Algorithmic Complexity](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/slides/20241111-algorithmic-complexity-1.pdf)|Guttag Chapters 11 + 12||
 |W Nov 13|[Slides: Algorithmic Complexity Cont.](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/slides/20241111-algorithmic-complexity-2.pdf)|||
-|Th Nov 14||[Lab: Engr. 7 Worst Case Containment]||
+|Th Nov 14||[Lab: Engr. 7 Worst Case Containment](https://classroom.github.com/a/L7kSJVqB) due Th Nov 21 at 2:30pm||
 |F Nov 15|[Slides: Search]|||
 
 ## Week 13 - Data Structures + Search
 
 | Date  | Links to in-class materials | Links to new assignments | Due Before Class Today        |
 |-------|-----------------------------|--------------------------|------------------|
-|M Nov 18||Guttag Chapters 14|Guttag Chapters 11 + 12 <br> [Lab: Spec. 7 Matrix](https://classroom.github.com/a/duSMcmEb) due W Nov 27 at 10am|
-|W Nov 20||||
-|Th Nov 21||[Lab: Engr. 8 Search]|[Lab: Engr. 7 Worst Case Containment]|
+|M Nov 18||Guttag Chapters 14|Guttag Chapters 11 + 12|
+|W Nov 20||[Lab: Spec. 7 Matrix](https://classroom.github.com/a/duSMcmEb) due W Nov 27 at 10am||
+|Th Nov 21||[Lab: Engr. 8 Search Algorithms] due Th Dec 5 at 2:30pm|[Lab: Engr. 7 Worst Case Containment](https://classroom.github.com/a/L7kSJVqB) due at 2:30pm|
 |F Nov 22||||
 
 ## Week 14 - Optimization Problems
 
 | Date  | Links to in-class materials | Links to new assignments | Due Before Class Today        |
 |-------|-----------------------------|--------------------------|------------------|
-|M Nov 25||[Lab: Spec. 8 Knapsack Solver]|Guttag Chapters 12 + 14|
+|M Nov 25||[Lab: Spec. 8 Knapsack Solver] due F Dec 6 at 10am|Guttag Chapters 12 + 14|
 |W Nov 27|Thanksgiving Break||[Lab: Spec. 7 Matrix](https://classroom.github.com/a/duSMcmEb) due at 10am|
 |Th Nov 28|Thanksgiving Break|||
 |F Nov 29|Thanksgiving Break|||
@@ -132,8 +132,8 @@
 |-------|-----------------------------|--------------------------|------------------|
 |M Dec 2|||Guttag Chapters 1-12 + 14|
 |W Dec 4||||
-|Th Dec 5|||[Lab: Engr. 8 Search]|
-|F Dec 6|||[Lab: Spec. 8 Knapsack Solver]|
+|Th Dec 5|||[Lab: Engr. 8 Search] due at 2:30pm|
+|F Dec 6|||[Lab: Spec. 8 Knapsack Solver] due at 10am|
 
 ## Final
 
