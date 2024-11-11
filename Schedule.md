@@ -99,13 +99,41 @@
 
 # Unit 3
 
-## Week 12 - Algorithmic Complexity
+## Week 12 - Algorithmic Complexity + Data Structures
 
-## Week 13 - Data Structures
+| Date  | Links to in-class materials | Links to new assignments | Due Before Class Today        |
+|-------|-----------------------------|--------------------------|------------------|
+|M Nov 11||Guttag Chapters 11 + 12||
+|W Nov 13||[Lab: Spec. 7 Matrix]||
+|Th Nov 14||[Lab: Engr. 7 Containment]||
+|F Nov 15||||
+
+## Week 13 - Search Algorithms
+
+| Date  | Links to in-class materials | Links to new assignments | Due Before Class Today        |
+|-------|-----------------------------|--------------------------|------------------|
+|M Nov 18||Guttag Chapters 14|Guttag Chapters 11 + 12|
+|W Nov 20|||[Lab: Spec. 7 Matrix]|
+|Th Nov 21||[Lab: Engr. 8 Search]|[Lab: Engr. 7 Containment]|
+|F Nov 22||||
 
 ## Week 14 - Optimization Problems
 
+| Date  | Links to in-class materials | Links to new assignments | Due Before Class Today        |
+|-------|-----------------------------|--------------------------|------------------|
+|M Nov 25||[Lab: Spec. 8 Knapsack Solver]|Guttag Chapters 12 + 14|
+|W Nov 27|Thanksgiving Break|||
+|Th Nov 28|Thanksgiving Break|||
+|F Nov 29|Thanksgiving Break|||
+
 ## Week 15 - Review
+
+| Date  | Links to in-class materials | Links to new assignments | Due Before Class Today        |
+|-------|-----------------------------|--------------------------|------------------|
+|M Dec 2|||Guttag Chapters 1-12 + 14|
+|W Dec 4||||
+|Th Dec 5|||[Lab: Engr. 8 Search]|
+|F Dec 6|||[Lab: Spec. 8 Knapsack Solver]|
 
 ## Final
 
