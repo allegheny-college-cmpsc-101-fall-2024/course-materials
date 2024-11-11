@@ -112,16 +112,16 @@
 
 | Date  | Links to in-class materials | Links to new assignments | Due Before Class Today        |
 |-------|-----------------------------|--------------------------|------------------|
-|M Nov 18||Guttag Chapters 14|Guttag Chapters 11 + 12|
+|M Nov 18|[Slides: Search Cont.]|Guttag Chapters 14|Guttag Chapters 11 + 12|
 |W Nov 20||[Lab: Spec. 7 Matrix](https://classroom.github.com/a/duSMcmEb) due W Nov 27 at 10am||
 |Th Nov 21||[Lab: Engr. 8 Search Algorithms] due Th Dec 5 at 2:30pm|[Lab: Engr. 7 Worst Case Containment](https://classroom.github.com/a/L7kSJVqB) due at 2:30pm|
-|F Nov 22||||
+|F Nov 22|[Slides: Dictionaries]|||
 
 ## Week 14 - Optimization Problems
 
 | Date  | Links to in-class materials | Links to new assignments | Due Before Class Today        |
 |-------|-----------------------------|--------------------------|------------------|
-|M Nov 25||[Lab: Spec. 8 Knapsack Solver] due F Dec 6 at 10am|Guttag Chapters 12 + 14|
+|M Nov 25|[Slides: Optimization]|[Lab: Spec. 8 Knapsack Solver] due F Dec 6 at 10am|Guttag Chapters 12 + 14|
 |W Nov 27|Thanksgiving Break||[Lab: Spec. 7 Matrix](https://classroom.github.com/a/duSMcmEb) due at 10am|
 |Th Nov 28|Thanksgiving Break|||
 |F Nov 29|Thanksgiving Break|||
