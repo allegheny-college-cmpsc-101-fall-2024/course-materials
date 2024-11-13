@@ -104,7 +104,7 @@
 | Date  | Links to in-class materials | Links to new assignments | Due Before Class Today        |
 |-------|-----------------------------|--------------------------|------------------|
 |M Nov 11|[Slides: Algorithmic Complexity](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/slides/20241111-algorithmic-complexity-1.pdf)|Guttag Chapters 11 + 12||
-|W Nov 13|[Slides: Algorithmic Complexity Cont.](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/slides/20241111-algorithmic-complexity-2.pdf) <br> [Code: Algorithmic Complexity](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/code/20241113_complexity.ipynb)|||
+|W Nov 13|[Slides: Algorithmic Complexity Cont.](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/slides/20241113-algorithmic-complexity-2.pdf) <br> [Code: Algorithmic Complexity](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/code/20241113_complexity.ipynb)|||
 |Th Nov 14||[Lab: Engr. 7 Worst Case Containment](https://classroom.github.com/a/L7kSJVqB) due Th Nov 21 at 2:30pm||
 |F Nov 15|[Slides: Search]|||
 
