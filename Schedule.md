@@ -114,7 +114,7 @@
 |-------|-----------------------------|--------------------------|------------------|
 |M Nov 18|[Slides: Data Structures](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/slides/20241118-data-structures.pdf) <br> [Code: Data Structures](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/code/20241118_data_structures.ipynb)|Guttag Chapters 14|Guttag Chapters 11 + 12|
 |W Nov 20|[Slides: VS Code](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/slides/20241118-VSCode.pdf)|[Lab: Spec. 7 Matrix](https://classroom.github.com/a/duSMcmEb) due W Nov 27 at 10am||
-|Th Nov 21||[Lab: Engr. 8 Sorting Algorithms] due Th Dec 5 at 2:30pm|[Lab: Engr. 7 Worst Case Containment](https://classroom.github.com/a/L7kSJVqB) due at 2:30pm|
+|Th Nov 21||[Lab: Engr. 8 Sorting Algorithms](https://classroom.github.com/a/8jMNOClP) due Th Dec 5 at 2:30pm|[Lab: Engr. 7 Worst Case Containment](https://classroom.github.com/a/L7kSJVqB) due at 2:30pm|
 |F Nov 22|See M Nov 18th|||
 
 ## Week 14 - Optimization Problems
@@ -132,7 +132,7 @@
 |-------|-----------------------------|--------------------------|------------------|
 |M Dec 2|||Guttag Chapters 1-12 + 14|
 |W Dec 4||||
-|Th Dec 5|||[Lab: Engr. 8 Search] due at 2:30pm|
+|Th Dec 5|||[Lab: Engr. 8 Search](https://classroom.github.com/a/8jMNOClP) due at 2:30pm|
 |F Dec 6|||[Lab: Spec. 8 Knapsack Solver] due at 10am|
 
 ## Final
