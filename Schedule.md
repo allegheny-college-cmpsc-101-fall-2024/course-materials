@@ -132,7 +132,7 @@
 |-------|-----------------------------|--------------------------|------------------|
 |M Dec 2|[Optional Repo: Final exam review]||Guttag Chapters 1-12 + 14|
 |W Dec 4|||[Lab: Spec. 7 Matrix](https://classroom.github.com/a/duSMcmEb) due at 10am|
-|Th Dec 5|||[Lab: Engr. 8 Search](https://classroom.github.com/a/8jMNOClP) due at 2:30pm|
+|Th Dec 5|||[Lab: Engr. 8 Sorting](https://classroom.github.com/a/8jMNOClP) due at 2:30pm|
 |F Dec 6|||[Lab: Spec. 8 Knapsack Solver](https://classroom.github.com/a/6iAgPHVB) due at 10am|
 
 ## Final
