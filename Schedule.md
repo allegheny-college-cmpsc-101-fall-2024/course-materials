@@ -121,7 +121,7 @@
 
 | Date  | Links to in-class materials | Links to new assignments | Due Before Class Today        |
 |-------|-----------------------------|--------------------------|------------------|
-|M Nov 25|[Slides: Optimization]|[Lab: Spec. 8 Knapsack Solver] due F Dec 6 at 10am|Guttag Chapters 12 + 14|
+|M Nov 25|[Slides: Optimization](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/slides/20241125-optimization.pdf) <br> [Code: Optimization](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/code/20241125_optimization.ipynb)|[Lab: Spec. 8 Knapsack Solver] due F Dec 6 at 10am|Guttag Chapters 12 + 14|
 |W Nov 27|Thanksgiving Break|||
 |Th Nov 28|Thanksgiving Break|||
 |F Nov 29|Thanksgiving Break|||
