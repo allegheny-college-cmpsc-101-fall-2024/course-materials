@@ -121,7 +121,7 @@
 
 | Date  | Links to in-class materials | Links to new assignments | Due Before Class Today        |
 |-------|-----------------------------|--------------------------|------------------|
-|M Nov 25|[Slides: Optimization](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/slides/20241125-optimization.pdf) <br> [Code: Optimization](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/code/20241125_optimization.ipynb)|[Lab: Spec. 8 Knapsack Solver] due F Dec 6 at 10am|Guttag Chapters 12 + 14|
+|M Nov 25|[Slides: Optimization](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/slides/20241125-optimization.pdf) <br> [Code: Optimization](https://github.com/allegheny-college-cmpsc-101-fall-2024/course-materials/blob/main/code/20241125_optimization.ipynb)|[Lab: Spec. 8 Knapsack Solver](https://classroom.github.com/a/6iAgPHVB) due F Dec 6 at 10am|Guttag Chapters 12 + 14|
 |W Nov 27|Thanksgiving Break|||
 |Th Nov 28|Thanksgiving Break|||
 |F Nov 29|Thanksgiving Break|||
@@ -130,10 +130,10 @@
 
 | Date  | Links to in-class materials | Links to new assignments | Due Before Class Today        |
 |-------|-----------------------------|--------------------------|------------------|
-|M Dec 2|||Guttag Chapters 1-12 + 14|
+|M Dec 2|[Optional Repo: Final exam review]||Guttag Chapters 1-12 + 14|
 |W Dec 4|||[Lab: Spec. 7 Matrix](https://classroom.github.com/a/duSMcmEb) due at 10am|
 |Th Dec 5|||[Lab: Engr. 8 Search](https://classroom.github.com/a/8jMNOClP) due at 2:30pm|
-|F Dec 6|||[Lab: Spec. 8 Knapsack Solver] due at 10am|
+|F Dec 6|||[Lab: Spec. 8 Knapsack Solver](https://classroom.github.com/a/6iAgPHVB) due at 10am|
 
 ## Final
 
