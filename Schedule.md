@@ -130,8 +130,8 @@
 
 | Date  | Links to in-class materials | Links to new assignments | Due Before Class Today        |
 |-------|-----------------------------|--------------------------|------------------|
-|M Dec 2|[Optional Repo: Final exam review]||Guttag Chapters 1-12 + 14|
-|W Dec 4|||[Lab: Spec. 7 Matrix](https://classroom.github.com/a/duSMcmEb) due at 10am|
+|M Dec 2|||Guttag Chapters 1-12 + 14|
+|W Dec 4|[Course Objectives Survey](https://forms.gle/gePCujMy2di1Xams7) <br> [RSE Survey](https://p1.courseval.net/etw/ets/et.asp?nxappid=AG2&nxmid=GetSurveyForm&wsedrq=O0I2H47044) <br> [Optional Repo: Final exam review](https://classroom.github.com/a/epUGKC9c)||[Lab: Spec. 7 Matrix](https://classroom.github.com/a/duSMcmEb) due at 10am|
 |Th Dec 5|||[Lab: Engr. 8 Sorting](https://classroom.github.com/a/8jMNOClP) due at 2:30pm|
 |F Dec 6|||[Lab: Spec. 8 Knapsack Solver](https://classroom.github.com/a/6iAgPHVB) due at 10am|
 
